@@ -89,7 +89,7 @@ paginate = 6
   name = "{Budi|Andi|Joko|Eko|Deni|Rudi|Hendra|Agus|Wawan|Rio}"
   message = "{Saya menggunakan layanan instalasi listrik dari listrik.bangunan.co untuk {rumah|proyek|gedung|renovasi} saya, dan hasilnya {sangat memuaskan|luar biasa|memenuhi harapan}. {Pemasangannya|Proses instalasinya} {rapi|bersih|teratur} dan sistem listriknya {berkualitas tinggi|tahan lama|handal}.|Layanan listrik.bangunan.co {sangat profesional|berkualitas} dengan hasil yang {rapi|teratur} dan sesuai standar.}"
   response = "{Terima kasih atas {kepercayaannya|pilihan Anda}! Kami senang dapat menyediakan instalasi listrik berkualitas untuk {rumah|proyek} Anda.|Kami {menghargai|berterima kasih atas} kepercayaan Anda. Terima kasih telah memilih layanan kami.}"
-  rating = 4.8
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar2.png"
@@ -103,14 +103,14 @@ paginate = 6
   name = "{Joko|Agus|Bayu|Faisal|Galih|Rizal|Bambang|Ali|Fajar|Toni}"
   message = "{Instalasi listrik dari listrik.bangunan.co {sangat rapi|bersih|teratur} dan cocok untuk proyek {perumahan|gedung|konstruksi} saya. Proses pemasangan juga {cepat|efisien|profesional}.|Saya {sangat puas|terkesan} dengan instalasi listrik dari listrik.bangunan.co. Hasilnya {rapi|teratur} dan pemasangan berjalan dengan {cepat|profesional|efisien}.}"
   response = "{Terima kasih! Kami berkomitmen untuk menyediakan instalasi listrik berkualitas dengan {layanan terbaik|pelayanan prima}.|Kami sangat senang mendengar bahwa Anda puas dengan hasil instalasi listrik dari kami.}"
-  rating = 4.6
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar4.png"
   name = "{Andi|Eko|Toni|Hendra|Dedi|Gilang|Ari|Wawan|Gani|Yudi}"
   message = "{Saya {sangat puas|terkesan|senang} dengan instalasi listrik dari listrik.bangunan.co. {Kualitas|Mutu} pemasangan {sangat baik|terbaik|terjamin} dan tahan lama untuk proyek saya.|Instalasi listrik dari listrik.bangunan.co {berkualitas|handal|kokoh} dengan pemasangan yang {cepat|efisien|rapi} sesuai kebutuhan proyek saya.}"
   response = "{Senang mendengar Anda puas dengan layanan instalasi listrik kami. Terima kasih atas {kepercayaannya|pilihan Anda}!|Kami sangat menghargai kepercayaan Anda. Terima kasih sudah memilih layanan kami.}"
-  rating = 4.8
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar5.png"
@@ -124,7 +124,7 @@ paginate = 6
   name = "{Eko|Deni|Rizal|Rio|Benny|Yanto|Galih|Toni|Faisal|Wawan}"
   message = "{Instalasi listrik dari listrik.bangunan.co sangat {sesuai|tepat|cocok} dengan kebutuhan proyek {renovasi|rumah|gedung|perumahan} saya. Proses pemasangannya {cepat|aman|efisien} dan {terjamin|rapi|bersih}.|Saya {puas|terkesan|senang} dengan instalasi listrik dari listrik.bangunan.co. Layanan instalasinya {profesional|cepat|teratur} dan sesuai dengan kebutuhan proyek saya.}"
   response = "{Kami {senang|gembira} mendengar bahwa Anda puas dengan hasil instalasi listrik kami. Terima kasih atas {ulasannya|kepercayaannya}!|Terima kasih telah mempercayakan instalasi listrik Anda kepada kami. Kami senang Anda puas dengan hasilnya.}"
-  rating = 4.6
+  rating = 4
 
 [[params.tabelItems]]
   name = "Instalasi Listrik Rumah"
