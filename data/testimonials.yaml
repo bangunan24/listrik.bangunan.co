@@ -1,25 +1,25 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Joko
+    name: Wawan
     message: >-
-      Layanan listrik.bangunan.co berkualitas dengan hasil yang teratur dan
-      sesuai standar.
+      Layanan listrik.bangunan.co berkualitas dengan hasil yang rapi dan sesuai
+      standar.
     response: >-
-      Terima kasih atas pilihan Anda! Kami senang dapat menyediakan instalasi
-      listrik berkualitas untuk proyek Anda.
+      Kami berterima kasih atas kepercayaan Anda. Terima kasih telah memilih
+      layanan kami.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Diah
+    name: Fitri
     message: >-
       Saya terkesan dengan bantuan listrik.bangunan.co dalam instalasi listrik
-      yang teratur dan sesuai dengan keinginan saya.
+      yang rapi dan sesuai dengan keinginan saya.
     response: Terima kasih atas ulasannya, kami senang dapat memenuhi harapan Anda.
     rating: 4
   - avatar: /images/admin/avatar3.png
-    name: Toni
+    name: Ali
     message: >-
-      Instalasi listrik dari listrik.bangunan.co sangat rapi dan cocok untuk
-      proyek perumahan saya. Proses pemasangan juga efisien.
+      Saya terkesan dengan instalasi listrik dari listrik.bangunan.co. Hasilnya
+      rapi dan pemasangan berjalan dengan efisien.
     response: >-
       Kami sangat senang mendengar bahwa Anda puas dengan hasil instalasi
       listrik dari kami.
@@ -28,26 +28,26 @@ testimonials:
     name: Yudi
     message: >-
       Saya senang dengan instalasi listrik dari listrik.bangunan.co. Mutu
-      pemasangan terjamin dan tahan lama untuk proyek saya.
+      pemasangan sangat baik dan tahan lama untuk proyek saya.
     response: >-
-      Senang mendengar Anda puas dengan layanan instalasi listrik kami. Terima
-      kasih atas pilihan Anda!
+      Kami sangat menghargai kepercayaan Anda. Terima kasih sudah memilih
+      layanan kami.
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Siti
+    name: Maya
     message: >-
-      Pelayanan listrik.bangunan.co terbaik. Instalasi listrik yang saya gunakan
-      berkualitas tinggi dan sesuai dengan ekspektasi saya.
+      Pelayanan listrik.bangunan.co terbaik. Instalasi listrik yang saya pasang
+      sangat berkualitas dan sesuai dengan rencana saya.
     response: >-
       Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan
       proyek Anda kepada kami!
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Benny
+    name: Wawan
     message: >-
-      Saya puas dengan instalasi listrik dari listrik.bangunan.co. Layanan
-      instalasinya teratur dan sesuai dengan kebutuhan proyek saya.
+      Instalasi listrik dari listrik.bangunan.co sangat tepat dengan kebutuhan
+      proyek rumah saya. Proses pemasangannya efisien dan rapi.
     response: >-
-      Terima kasih telah mempercayakan instalasi listrik Anda kepada kami. Kami
-      senang Anda puas dengan hasilnya.
+      Kami senang mendengar bahwa Anda puas dengan hasil instalasi listrik kami.
+      Terima kasih atas ulasannya!
     rating: 4
