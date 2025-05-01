@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Bungursari Purwakarta"
-date: "2024-05-22"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Bungursari Purwakarta. Itulah informasi yang dapat kami uraikan tentang Jasa Instalasi Listrik di Bungursari Purwakarta. Jikalau di..."
+title: Jasa Instalasi Listrik di Bungursari Purwakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Bungursari Purwakarta. Itulah informasi yang dapat
+  kami uraikan tentang Jasa Instalasi Listrik di Bungursari Purwakarta. Jikalau
+  di...
 ---
 
 **Jasa Instalasi Listrik di Bungursari Purwakarta** – Listrik menjadi bagian dari kebutuhan setiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap orang pastinya akan susah untuk melaksanakan aktivitas sehari-harinya yg terkait dg listirik. Beberapa aktivitas yg terkait dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Bahkan ada juga pekerjaan yg membutuhkan listrik.

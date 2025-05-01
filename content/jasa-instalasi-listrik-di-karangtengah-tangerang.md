@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Karangtengah Tangerang"
-date: "2024-05-24"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Karangtengah Tangerang. Sampai disini penjelasan yang bisa kami uraikan tentang Jasa Instalasi Listrik di Karangtengah Tangerang. S..."
+title: Jasa Instalasi Listrik di Karangtengah Tangerang
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Karangtengah Tangerang. Sampai disini penjelasan
+  yang bisa kami uraikan tentang Jasa Instalasi Listrik di Karangtengah
+  Tangerang. S...
 ---
 
 **Jasa Instalasi Listrik di Karangtengah Tangerang** – Listrik bakal jadi bagian keperluan semua masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, seluruh orang tentunya akan sulit untuk menjalankan kesibukan sehari-harinya yang berkaitan dengan listirik. Beberapa kegiatan yg berhubungan dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dan lainnya. Malahan ada juga projek yang memerlukan listrik.

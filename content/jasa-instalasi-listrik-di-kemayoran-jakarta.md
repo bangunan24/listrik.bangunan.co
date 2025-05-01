@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kemayoran Jakarta"
-date: "2024-05-20"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kemayoran Jakarta. Sampai disini info yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Kemayoran Jakarta. Seandainya dia..."
+title: Jasa Instalasi Listrik di Kemayoran Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kemayoran Jakarta. Sampai disini info yang dapat
+  kami sampaikan perihal Jasa Instalasi Listrik di Kemayoran Jakarta. Seandainya
+  dia...
 ---
 
 **Jasa Instalasi Listrik di Kemayoran Jakarta** – Listrik akan menjadi bagian keperluan tiap-tiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap masyarakat pastinya akan sulit untuk melakukan aktivitas sehari-harinya yg berhubungan dg listirik. Sebagian kegiatan yg berhubungan dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dan lain sebagainya. Malah ada juga projek yang membutuhkan listrik.

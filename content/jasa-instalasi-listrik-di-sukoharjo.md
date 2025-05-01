@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Sukoharjo"
-date: "2024-05-21"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Sukoharjo. Sampai disini informasi yang mampu kami sampaikan perihal Jasa Instalasi Listrik di Sukoharjo. Apabila diantara anda ada..."
+title: Jasa Instalasi Listrik di Sukoharjo
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Sukoharjo. Sampai disini informasi yang mampu kami
+  sampaikan perihal Jasa Instalasi Listrik di Sukoharjo. Apabila diantara anda
+  ada...
 ---
 
 **Jasa Instalasi Listrik di Sukoharjo** – Listrik ialah sebuah sumber aliran daya listrik yg paling utama untuk kehidupan manusia. Setiap tempat tinggal membutuhkan listrik sbg sumber aliran energi listrik yg cukup penting, sebagian diantaranya semisal pemakaian lampu, televise, mesin cuci, dan kelengkapan lainnya yang memakai listrik.

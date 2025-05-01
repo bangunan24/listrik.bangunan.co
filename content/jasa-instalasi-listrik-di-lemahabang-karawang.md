@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Lemahabang Karawang"
-date: "2024-05-24"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Lemahabang Karawang. Demikinlah info yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Lemahabang Karawang. Jika diantara..."
+title: Jasa Instalasi Listrik di Lemahabang Karawang
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Lemahabang Karawang. Demikinlah info yang dapat kami
+  sampaikan perihal Jasa Instalasi Listrik di Lemahabang Karawang. Jika
+  diantara...
 ---
 
 **Jasa Instalasi Listrik di Lemahabang Karawang** – Listrik yaitu beberapa sumber aliran arus listrik yg paling paling dibutuhkan untuk kehidupan manusia. Tiap-tiap tempat tinggal membutuhkan listrik sebagai sumber aliran energi listrik yang amat utama, sebagian diantaranya seperti penerapan lampu, televise, mesin cuci, dan peralatan lainnya yg memakai listrik.

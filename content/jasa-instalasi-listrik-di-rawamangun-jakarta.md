@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Rawamangun Jakarta"
-date: "2024-05-18"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Rawamangun Jakarta. Seperti itulah informasi yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Rawamangun Jakarta. Sekira..."
+title: Jasa Instalasi Listrik di Rawamangun Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Rawamangun Jakarta. Seperti itulah informasi yang
+  dapat kami sampaikan perihal Jasa Instalasi Listrik di Rawamangun Jakarta.
+  Sekira...
 ---
 
 **Jasa Instalasi Listrik di Rawamangun Jakarta** – Listrik adalah bagian sumber aliran tenaga listrik yg paling paling diinginkan untuk kehidupan manusia. Masing-masing tempat tinggal membutuhkan listrik sebagai sumber aliran tenaga listrik yang amat paling diperlukan, beberapa diantaranya semisal penerapan lampu, televise, mesin cuci, dan perlengkapan yang lain yg mengaplikasikan listrik.

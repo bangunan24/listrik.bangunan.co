@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cakung Jakarta"
-date: "2024-05-25"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cakung Jakarta. Itulah pemaparan yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Cakung Jakarta. Jikalau diantara anda..."
+title: Jasa Instalasi Listrik di Cakung Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cakung Jakarta. Itulah pemaparan yang dapat kami
+  sampaikan perihal Jasa Instalasi Listrik di Cakung Jakarta. Jikalau diantara
+  anda...
 ---
 
 **Jasa Instalasi Listrik di Cakung Jakarta** – Listrik menjadi bagian kebutuhan tiap-tiap masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap manusia pastinya akan sulit untuk mengerjakan aktivitas sehari-harinya yg berhubungan dg listirik. Sebagian kesibukan yg terkait dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dll. Malahan ada juga proyek yang membutuhkan listrik.

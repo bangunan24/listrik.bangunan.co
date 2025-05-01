@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Batujajar"
-date: "2024-05-22"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Batujajar. Seperti itulah penjelasan yang bisa kami sampaikan tentang Jasa Instalasi Listrik di Batujajar. Apabila diantara anda ad..."
+title: Jasa Instalasi Listrik di Batujajar
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Batujajar. Seperti itulah penjelasan yang bisa kami
+  sampaikan tentang Jasa Instalasi Listrik di Batujajar. Apabila diantara anda
+  ad...
 ---
 
 **Jasa Instalasi Listrik di Batujajar** – Listrik akan menjadi beberapa kebutuhan seluruh manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, seluruh orang tentunya akan sulit untuk mengerjakan kesibukan sehari-harinya yg berkaitan dengan listirik. Beberapa kesibukan yang terkait dg listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Malah ada juga proyek yang membutuhkan listrik.

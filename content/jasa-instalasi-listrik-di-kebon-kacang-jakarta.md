@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kebon Kacang Jakarta"
-date: "2024-05-15"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kebon Kacang Jakarta. Itulah info yang dapat kami uraikan tentang Jasa Instalasi Listrik di Kebon Kacang Jakarta. Seandainya dianta..."
+title: Jasa Instalasi Listrik di Kebon Kacang Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kebon Kacang Jakarta. Itulah info yang dapat kami
+  uraikan tentang Jasa Instalasi Listrik di Kebon Kacang Jakarta. Seandainya
+  dianta...
 ---
 
 **Jasa Instalasi Listrik di Kebon Kacang Jakarta** – Listrik bakal jadi beberapa kebutuhan semua manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, semua orang pastinya akan susah untuk menjalankan kesibukan sehari-harinya yang berkaitan dg listirik. Sebagian kegiatan yg berhubungan dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Bahkan ada juga pekerjaan yg memerlukan listrik.

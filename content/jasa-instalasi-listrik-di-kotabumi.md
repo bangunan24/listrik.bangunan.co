@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kotabumi"
-date: "2024-05-21"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kotabumi. Seperti itulah penjelasan yang mampu kami uraikan perihal Jasa Instalasi Listrik di Kotabumi. Sekiranya diantara anda ada..."
+title: Jasa Instalasi Listrik di Kotabumi
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kotabumi. Seperti itulah penjelasan yang mampu kami
+  uraikan perihal Jasa Instalasi Listrik di Kotabumi. Sekiranya diantara anda
+  ada...
 ---
 
 **Jasa Instalasi Listrik di Kotabumi** – Listrik akan menjadi bagian keperluan seluruh manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap manusia pastinya akan sulit untuk mengerjakan kesibukan sehari-harinya yg terkait dg listirik. Sebagian kegiatan yg terkait dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Malah ada juga projek yg membutuhkan listrik.

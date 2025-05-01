@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cikampek Karawang"
-date: "2024-05-26"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cikampek Karawang. Itulah penjelasan yang mampu kami uraikan tentang Jasa Instalasi Listrik di Cikampek Karawang. Bila diantara and..."
+title: Jasa Instalasi Listrik di Cikampek Karawang
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cikampek Karawang. Itulah penjelasan yang mampu kami
+  uraikan tentang Jasa Instalasi Listrik di Cikampek Karawang. Bila diantara
+  and...
 ---
 
 **Jasa Instalasi Listrik di Cikampek Karawang** – Listrik akan menjadi bagian keperluan seluruh masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, seluruh manusia tentunya akan susah untuk melakukan aktivitas sehari-harinya yang berhubungan dg listirik. Beberapa aktivitas yg berhubungan dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Malahan ada juga pekerjaan yang membutuhkan listrik.

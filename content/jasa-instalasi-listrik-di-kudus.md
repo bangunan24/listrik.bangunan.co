@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kudus"
-date: "2024-05-16"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kudus. Sampai disini info yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Kudus. Jikalau diantara anda ada yang sedang..."
+title: Jasa Instalasi Listrik di Kudus
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kudus. Sampai disini info yang dapat kami sampaikan
+  tentang Jasa Instalasi Listrik di Kudus. Jikalau diantara anda ada yang
+  sedang...
 ---
 
 **Jasa Instalasi Listrik di Kudus** – Listrik akan menjadi beberapa keperluan semua masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, seluruh orang tentunya akan sulit untuk menjalankan aktivitas sehari-harinya yg berkaitan dg listirik. Beberapa kesibukan yang berkaitan dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Bahkan ada juga pekerjaan yang membutuhkan listrik.

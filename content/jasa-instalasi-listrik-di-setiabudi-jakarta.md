@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Setiabudi Jakarta"
-date: "2024-05-23"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Setiabudi Jakarta. Sampai disini pemaparan yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Setiabudi Jakarta. Bila diant..."
+title: Jasa Instalasi Listrik di Setiabudi Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Setiabudi Jakarta. Sampai disini pemaparan yang bisa
+  kami sampaikan perihal Jasa Instalasi Listrik di Setiabudi Jakarta. Bila
+  diant...
 ---
 
 **Jasa Instalasi Listrik di Setiabudi Jakarta** – Listrik ialah beberapa sumber aliran daya listrik yang paling sangat dibutuhkan untuk kehidupan manusia. Masing-masing tempat tinggal membutuhkan listrik sebagai sumber aliran daya listrik yang teramat sangat diharapkan, beberapa diantaranya seperti penerapan lampu, televise, mesin cuci, dan peralatan yang lain yang menggunakan listrik.

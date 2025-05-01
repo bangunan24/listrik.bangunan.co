@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Rancaekek"
-date: "2024-05-24"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Rancaekek. Sampai disini info yang dapat kami uraikan tentang Jasa Instalasi Listrik di Rancaekek. Seandainya diantara anda ada yan..."
+title: Jasa Instalasi Listrik di Rancaekek
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Rancaekek. Sampai disini info yang dapat kami
+  uraikan tentang Jasa Instalasi Listrik di Rancaekek. Seandainya diantara anda
+  ada yan...
 ---
 
 **Jasa Instalasi Listrik di Rancaekek** – Listrik yaitu beberapa sumber aliran daya listrik yg paling utama untuk kehidupan manusia. Tiap-tiap tempat tinggal memerlukan listrik sbg sumber aliran tenaga listrik yg amat utama, sebagian diantaranya seperti pengaplikasian lampu, televise, mesin cuci, dan kelengkapan lainnya yang mengaplikasikan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cibinong"
-date: "2024-05-16"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cibinong. Seperti itulah pemaparan yang mampu kami uraikan tentang Jasa Instalasi Listrik di Cibinong. Sekiranya diantara anda ada..."
+title: Jasa Instalasi Listrik di Cibinong
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cibinong. Seperti itulah pemaparan yang mampu kami
+  uraikan tentang Jasa Instalasi Listrik di Cibinong. Sekiranya diantara anda
+  ada...
 ---
 
 **Jasa Instalasi Listrik di Cibinong** – Listrik akan menjadi satu satunya kebutuhan seluruh masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, semua manusia pastinya akan sulit untuk menjalankan kegiatan sehari-harinya yang berkaitan dengan listirik. Beberapa aktivitas yang berhubungan dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dll. Malah ada juga projek yg memerlukan listrik.

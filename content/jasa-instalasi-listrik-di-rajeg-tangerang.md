@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Rajeg Tangerang"
-date: "2024-05-14"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Rajeg Tangerang. Itulah penjelasan yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Rajeg Tangerang. Sekiranya diantara..."
+title: Jasa Instalasi Listrik di Rajeg Tangerang
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Rajeg Tangerang. Itulah penjelasan yang dapat kami
+  sampaikan tentang Jasa Instalasi Listrik di Rajeg Tangerang. Sekiranya
+  diantara...
 ---
 
 **Jasa Instalasi Listrik di Rajeg Tangerang** – Listrik yakni beberapa sumber aliran tenaga listrik yang paling utama untuk kehidupan manusia. Setiap rumah membutuhkan listrik sebagai sumber aliran tenaga listrik yang amat penting, sebagian diantaranya semisal pemakaian lampu, televise, mesin cuci, dan perlengkapan lainnya yang menggunakan listrik.

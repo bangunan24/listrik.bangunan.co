@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Wonosari"
-date: "2024-05-17"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Wonosari. Demikinlah informasi yang mampu kami sampaikan tentang Jasa Instalasi Listrik di Wonosari. Sekiranya diantara anda ada ya..."
+title: Jasa Instalasi Listrik di Wonosari
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Wonosari. Demikinlah informasi yang mampu kami
+  sampaikan tentang Jasa Instalasi Listrik di Wonosari. Sekiranya diantara anda
+  ada ya...
 ---
 
 **Jasa Instalasi Listrik di Wonosari** – Listrik yakni beberapa sumber aliran daya listrik yang paling penting untuk kehidupan manusia. Setiap tempat tinggal membutuhkan listrik sebagai sumber aliran daya listrik yang cukup utama, sebagian diantaranya seperti pengaplikasian lampu, televise, mesin cuci, dan peralatan yang lain yang menerapkan listrik.

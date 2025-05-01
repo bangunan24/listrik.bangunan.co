@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Padalarang"
-date: "2024-05-25"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Padalarang. Seperti itulah info yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Padalarang. Bila diantara anda ada yang..."
+title: Jasa Instalasi Listrik di Padalarang
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Padalarang. Seperti itulah info yang dapat kami
+  sampaikan tentang Jasa Instalasi Listrik di Padalarang. Bila diantara anda ada
+  yang...
 ---
 
 **Jasa Instalasi Listrik di Padalarang** – Listrik yakni sebuah sumber aliran tenaga listrik yang paling sangat dibutuhkan untuk kehidupan manusia. Tiap-tiap rumah membutuhkan listrik sbg sumber aliran tenaga listrik yg cukup penting, beberapa diantaranya seperti penggunaan lampu, televise, mesin cuci, dan peralatan yang lain yang menerapkan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Tambun Bekasi"
-date: "2024-05-20"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Tambun Bekasi. Seperti itulah informasi yang mampu kami uraikan tentang Jasa Instalasi Listrik di Tambun Bekasi. Bila diantara anda..."
+title: Jasa Instalasi Listrik di Tambun Bekasi
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Tambun Bekasi. Seperti itulah informasi yang mampu
+  kami uraikan tentang Jasa Instalasi Listrik di Tambun Bekasi. Bila diantara
+  anda...
 ---
 
 **Jasa Instalasi Listrik di Tambun Bekasi** – Listrik yakni sebuah sumber aliran tenaga listrik yg paling sangat diinginkan untuk kehidupan manusia. Masing-masing tempat tinggal membutuhkan listrik sebagai sumber aliran arus listrik yang teramat penting, sebagian diantaranya seperti pemakaian lampu, televise, mesin cuci, dan peralatan yang lain yg mengaplikasikan listrik.

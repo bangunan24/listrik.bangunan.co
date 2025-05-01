@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Tirtamulya Karawang"
-date: "2024-05-18"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Tirtamulya Karawang. Demikinlah informasi yang dapat kami uraikan perihal Jasa Instalasi Listrik di Tirtamulya Karawang. Sekiranya..."
+title: Jasa Instalasi Listrik di Tirtamulya Karawang
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Tirtamulya Karawang. Demikinlah informasi yang dapat
+  kami uraikan perihal Jasa Instalasi Listrik di Tirtamulya Karawang.
+  Sekiranya...
 ---
 
 **Jasa Instalasi Listrik di Tirtamulya Karawang** – Listrik ialah beberapa sumber aliran tenaga listrik yg paling paling diinginkan untuk kehidupan manusia. Tiap rumah membutuhkan listrik sbg sumber aliran energi listrik yg teramat penting, beberapa diantaranya seperti pemakaian lampu, televise, mesin cuci, dan perlengkapan lainnya yang mengaplikasikan listrik.
