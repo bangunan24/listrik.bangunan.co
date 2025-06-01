@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Curug Tangerang"
-date: "2024-06-16"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Curug Tangerang. Sampai disini pemaparan yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Curug Tangerang. Kalau diantara..."
+title: Jasa Instalasi Listrik di Curug Tangerang
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Curug Tangerang. Sampai disini pemaparan yang bisa
+  kami sampaikan perihal Jasa Instalasi Listrik di Curug Tangerang. Kalau
+  diantara...
 ---
 
 **Jasa Instalasi Listrik di Curug Tangerang** – Listrik akan menjadi satu satunya keperluan seluruh orang dalam kehidupan sehari-hari. Tanpa adanya listrik, semua orang tentunya akan sulit untuk mengerjakan aktivitas sehari-harinya yang berkaitan dengan listirik. Sebagian aktivitas yg terkait dg listrik seperti menonton tv, menyalakan kulkas, lampu, dan lain sebagainya. Malah ada juga proyek yg membutuhkan listrik.

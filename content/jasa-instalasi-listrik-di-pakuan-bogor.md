@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Pakuan Bogor"
-date: "2024-06-22"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Pakuan Bogor. Sampai disini informasi yang mampu kami uraikan perihal Jasa Instalasi Listrik di Pakuan Bogor. Jikalau diantara anda..."
+title: Jasa Instalasi Listrik di Pakuan Bogor
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Pakuan Bogor. Sampai disini informasi yang mampu
+  kami uraikan perihal Jasa Instalasi Listrik di Pakuan Bogor. Jikalau diantara
+  anda...
 ---
 
 **Jasa Instalasi Listrik di Pakuan Bogor** – Listrik merupakan satu satunya sumber aliran tenaga listrik yang paling penting untuk kehidupan manusia. Setiap rumah memerlukan listrik sebagai sumber aliran daya listrik yang amat penting, beberapa diantaranya semisal penerapan lampu, televise, mesin cuci, dan kelengkapan yang lain yg mengaplikasikan listrik.

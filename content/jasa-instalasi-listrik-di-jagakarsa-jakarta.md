@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Jagakarsa Jakarta"
-date: "2024-06-03"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Jagakarsa Jakarta. Sampai disini pemaparan yang mampu kami uraikan perihal Jasa Instalasi Listrik di Jagakarsa Jakarta. Kalau diant..."
+title: Jasa Instalasi Listrik di Jagakarsa Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Jagakarsa Jakarta. Sampai disini pemaparan yang
+  mampu kami uraikan perihal Jasa Instalasi Listrik di Jagakarsa Jakarta. Kalau
+  diant...
 ---
 
 **Jasa Instalasi Listrik di Jagakarsa Jakarta** – Listrik menjadi bagian keperluan semua manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap masyarakat pastinya akan sulit untuk melakukan kesibukan sehari-harinya yg terkait dengan listirik. Beberapa kegiatan yg terkait dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Bahkan ada juga pekerjaan yang membutuhkan listrik.

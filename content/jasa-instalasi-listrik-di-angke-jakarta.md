@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Angke Jakarta"
-date: "2024-06-25"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Angke Jakarta. Demikinlah info yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Angke Jakarta. Bila diantara anda ada ya..."
+title: Jasa Instalasi Listrik di Angke Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Angke Jakarta. Demikinlah info yang dapat kami
+  sampaikan tentang Jasa Instalasi Listrik di Angke Jakarta. Bila diantara anda
+  ada ya...
 ---
 
 **Jasa Instalasi Listrik di Angke Jakarta** – Listrik bakal jadi salah satu kebutuhan setiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap manusia tentunya akan sulit untuk menjalankan kegiatan sehari-harinya yg berhubungan dg listirik. Beberapa kesibukan yg berkaitan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dan lain sebagainya. Malah ada juga proyek yg memerlukan listrik.

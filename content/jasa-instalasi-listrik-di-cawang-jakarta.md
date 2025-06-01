@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cawang Jakarta"
-date: "2024-06-12"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cawang Jakarta. Demikinlah penjelasan yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Cawang Jakarta. Seandainya diantar..."
+title: Jasa Instalasi Listrik di Cawang Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cawang Jakarta. Demikinlah penjelasan yang bisa kami
+  sampaikan perihal Jasa Instalasi Listrik di Cawang Jakarta. Seandainya
+  diantar...
 ---
 
 **Jasa Instalasi Listrik di Cawang Jakarta** – Listrik menjadi bagian keperluan tiap-tiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, semua manusia pastinya akan sulit untuk melaksanakan aktivitas sehari-harinya yang berkaitan dg listirik. Beberapa kegiatan yg berhubungan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Bahkan ada juga proyek yg memerlukan listrik.

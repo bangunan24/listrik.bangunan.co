@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kalibata Jakarta"
-date: "2024-06-05"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kalibata Jakarta. Demikinlah info yang bisa kami uraikan tentang Jasa Instalasi Listrik di Kalibata Jakarta. Bila diantara anda ada..."
+title: Jasa Instalasi Listrik di Kalibata Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kalibata Jakarta. Demikinlah info yang bisa kami
+  uraikan tentang Jasa Instalasi Listrik di Kalibata Jakarta. Bila diantara anda
+  ada...
 ---
 
 **Jasa Instalasi Listrik di Kalibata Jakarta** – Listrik bakal jadi beberapa kebutuhan tiap-tiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap orang tentunya akan sulit untuk melakukan aktivitas sehari-harinya yang terkait dengan listirik. Beberapa kesibukan yg berhubungan dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Malah ada juga proyek yg membutuhkan listrik.

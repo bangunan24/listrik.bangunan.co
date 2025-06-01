@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Brebes"
-date: "2024-06-26"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Brebes. Itulah informasi yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Brebes. Sekiranya diantara anda ada yang sedang..."
+title: Jasa Instalasi Listrik di Brebes
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Brebes. Itulah informasi yang bisa kami sampaikan
+  perihal Jasa Instalasi Listrik di Brebes. Sekiranya diantara anda ada yang
+  sedang...
 ---
 
 **Jasa Instalasi Listrik di Brebes** – Listrik menjadi beberapa kebutuhan tiap-tiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, semua orang tentunya akan susah untuk menjalankan kegiatan sehari-harinya yang berhubungan dg listirik. Sebagian kegiatan yang berkaitan dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Bahkan ada juga projek yg membutuhkan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Mojokerto"
-date: "2024-06-13"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Mojokerto. Sampai disini penjelasan yang dapat kami uraikan perihal Jasa Instalasi Listrik di Mojokerto. Kalau diantara anda ada ya..."
+title: Jasa Instalasi Listrik di Mojokerto
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Mojokerto. Sampai disini penjelasan yang dapat kami
+  uraikan perihal Jasa Instalasi Listrik di Mojokerto. Kalau diantara anda ada
+  ya...
 ---
 
 **Jasa Instalasi Listrik di Mojokerto** – Listrik merupakan salah satu sumber aliran arus listrik yg paling utama untuk kehidupan manusia. Setiap rumah membutuhkan listrik sebagai sumber aliran arus listrik yg amat penting, beberapa diantaranya semisal penerapan lampu, televise, mesin cuci, dan perlengkapan lainnya yg mengaplikasikan listrik.

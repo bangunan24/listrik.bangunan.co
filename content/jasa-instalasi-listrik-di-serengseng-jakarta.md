@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Serengseng Jakarta"
-date: "2024-06-02"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Serengseng Jakarta. Seperti itulah info yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Serengseng Jakarta. Bila dianta..."
+title: Jasa Instalasi Listrik di Serengseng Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Serengseng Jakarta. Seperti itulah info yang dapat
+  kami sampaikan perihal Jasa Instalasi Listrik di Serengseng Jakarta. Bila
+  dianta...
 ---
 
 **Jasa Instalasi Listrik di Serengseng Jakarta** – Listrik adalah salah satu sumber aliran daya listrik yang paling penting untuk kehidupan manusia. Setiap rumah memerlukan listrik sebagai sumber aliran energi listrik yang teramat utama, sebagian diantaranya seperti pengaplikasian lampu, televise, mesin cuci, dan perlengkapan lainnya yang menerapkan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cianjur"
-date: "2024-06-13"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cianjur. Seperti itulah pemaparan yang bisa kami uraikan tentang Jasa Instalasi Listrik di Cianjur. Bila diantara anda ada yang sed..."
+title: Jasa Instalasi Listrik di Cianjur
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cianjur. Seperti itulah pemaparan yang bisa kami
+  uraikan tentang Jasa Instalasi Listrik di Cianjur. Bila diantara anda ada yang
+  sed...
 ---
 
 **Jasa Instalasi Listrik di Cianjur** – Listrik bakal jadi bagian kebutuhan seluruh masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, seluruh masyarakat tentunya akan susah untuk melaksanakan kesibukan sehari-harinya yang berkaitan dg listirik. Sebagian aktivitas yang terkait dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Malah ada juga pekerjaan yang memerlukan listrik.

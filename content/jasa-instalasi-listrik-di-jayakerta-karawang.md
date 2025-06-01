@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Jayakerta Karawang"
-date: "2024-06-02"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Jayakerta Karawang. Sampai disini penjelasan yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Jayakerta Karawang. Jika di..."
+title: Jasa Instalasi Listrik di Jayakerta Karawang
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Jayakerta Karawang. Sampai disini penjelasan yang
+  bisa kami sampaikan perihal Jasa Instalasi Listrik di Jayakerta Karawang. Jika
+  di...
 ---
 
 **Jasa Instalasi Listrik di Jayakerta Karawang** – Listrik akan menjadi bagian keperluan setiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap manusia pastinya akan sulit untuk menjalankan kesibukan sehari-harinya yang berhubungan dg listirik. Beberapa kesibukan yg terkait dg listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Malahan ada juga projek yg membutuhkan listrik.

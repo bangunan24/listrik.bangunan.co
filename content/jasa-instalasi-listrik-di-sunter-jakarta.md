@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Sunter Jakarta"
-date: "2024-06-18"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Sunter Jakarta. Demikinlah penjelasan yang mampu kami uraikan perihal Jasa Instalasi Listrik di Sunter Jakarta. Kalau diantara anda..."
+title: Jasa Instalasi Listrik di Sunter Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Sunter Jakarta. Demikinlah penjelasan yang mampu
+  kami uraikan perihal Jasa Instalasi Listrik di Sunter Jakarta. Kalau diantara
+  anda...
 ---
 
 **Jasa Instalasi Listrik di Sunter Jakarta** – Listrik adalah bagian sumber aliran daya listrik yg paling utama untuk kehidupan manusia. Tiap rumah membutuhkan listrik sbg sumber aliran arus listrik yg amat sangat diinginkan, sebagian diantaranya semisal pemakaian lampu, televise, mesin cuci, dan kelengkapan yang lain yang mengaplikasikan listrik.

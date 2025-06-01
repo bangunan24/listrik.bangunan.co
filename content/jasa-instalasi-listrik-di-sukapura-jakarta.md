@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Sukapura Jakarta"
-date: "2024-06-08"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Sukapura Jakarta. Sampai disini informasi yang mampu kami sampaikan perihal Jasa Instalasi Listrik di Sukapura Jakarta. Jikalau dia..."
+title: Jasa Instalasi Listrik di Sukapura Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Sukapura Jakarta. Sampai disini informasi yang mampu
+  kami sampaikan perihal Jasa Instalasi Listrik di Sukapura Jakarta. Jikalau
+  dia...
 ---
 
 **Jasa Instalasi Listrik di Sukapura Jakarta** – Listrik ialah sebuah sumber aliran daya listrik yg paling paling diperlukan untuk kehidupan manusia. Masing-masing hunian membutuhkan listrik sebagai sumber aliran energi listrik yang amat penting, sebagian diantaranya seperti penerapan lampu, televise, mesin cuci, dan kelengkapan lainnya yang memakai listrik.

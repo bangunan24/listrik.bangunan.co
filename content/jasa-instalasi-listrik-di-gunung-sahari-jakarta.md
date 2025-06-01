@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Gunung Sahari Jakarta"
-date: "2024-06-02"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Gunung Sahari Jakarta. Seperti itulah pemaparan yang mampu kami uraikan tentang Jasa Instalasi Listrik di Gunung Sahari Jakarta. Se..."
+title: Jasa Instalasi Listrik di Gunung Sahari Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Gunung Sahari Jakarta. Seperti itulah pemaparan yang
+  mampu kami uraikan tentang Jasa Instalasi Listrik di Gunung Sahari Jakarta.
+  Se...
 ---
 
 **Jasa Instalasi Listrik di Gunung Sahari Jakarta** – Listrik akan menjadi salah satu kebutuhan setiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, semua manusia pastinya akan susah untuk mengerjakan kesibukan sehari-harinya yang terkait dengan listirik. Sebagian aktivitas yg berhubungan dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dan lainnya. Malahan ada juga proyek yg membutuhkan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Gresik"
-date: "2024-06-30"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Gresik. Seperti itulah informasi yang mampu kami uraikan perihal Jasa Instalasi Listrik di Gresik. Apabila diantara anda ada yang s..."
+title: Jasa Instalasi Listrik di Gresik
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Gresik. Seperti itulah informasi yang mampu kami
+  uraikan perihal Jasa Instalasi Listrik di Gresik. Apabila diantara anda ada
+  yang s...
 ---
 
 **Jasa Instalasi Listrik di Gresik** – Listrik akan menjadi bagian kebutuhan setiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, semua orang tentunya akan sulit untuk melaksanakan kegiatan sehari-harinya yg berhubungan dg listirik. Sebagian kesibukan yg terkait dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dan lainnya. Malahan ada juga proyek yang membutuhkan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kembangan Jakarta"
-date: "2024-06-13"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kembangan Jakarta. Seperti itulah informasi yang bisa kami sampaikan tentang Jasa Instalasi Listrik di Kembangan Jakarta. Jikalau d..."
+title: Jasa Instalasi Listrik di Kembangan Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kembangan Jakarta. Seperti itulah informasi yang
+  bisa kami sampaikan tentang Jasa Instalasi Listrik di Kembangan Jakarta.
+  Jikalau d...
 ---
 
 **Jasa Instalasi Listrik di Kembangan Jakarta** – Listrik menjadi bagian keperluan semua manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap orang pastinya akan sulit untuk mengerjakan aktivitas sehari-harinya yang terkait dg listirik. Sebagian aktivitas yg berhubungan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Malah ada juga pekerjaan yang memerlukan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Pegangsaan Jakarta"
-date: "2024-06-22"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Pegangsaan Jakarta. Sampai disini informasi yang bisa kami sampaikan tentang Jasa Instalasi Listrik di Pegangsaan Jakarta. Sekirany..."
+title: Jasa Instalasi Listrik di Pegangsaan Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Pegangsaan Jakarta. Sampai disini informasi yang
+  bisa kami sampaikan tentang Jasa Instalasi Listrik di Pegangsaan Jakarta.
+  Sekirany...
 ---
 
 **Jasa Instalasi Listrik di Pegangsaan Jakarta** – Listrik merupakan beberapa sumber aliran arus listrik yg paling urgent untuk kehidupan manusia. Tiap rumah memerlukan listrik sbg sumber aliran energi listrik yg cukup paling diinginkan, beberapa diantaranya semisal penerapan lampu, televise, mesin cuci, dan kelengkapan yang lain yang menggunakan listrik.

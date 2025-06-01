@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Slipi Jakarta"
-date: "2024-06-25"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Slipi Jakarta. Sampai disini informasi yang dapat kami uraikan tentang Jasa Instalasi Listrik di Slipi Jakarta. Seandainya diantara..."
+title: Jasa Instalasi Listrik di Slipi Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Slipi Jakarta. Sampai disini informasi yang dapat
+  kami uraikan tentang Jasa Instalasi Listrik di Slipi Jakarta. Seandainya
+  diantara...
 ---
 
 **Jasa Instalasi Listrik di Slipi Jakarta** – Listrik adalah salah satu sumber aliran arus listrik yang paling penting untuk kehidupan manusia. Masing-masing tempat tinggal memerlukan listrik sebagai sumber aliran energi listrik yg cukup utama, sebagian diantaranya semisal penggunaan lampu, televise, mesin cuci, dan peralatan yang lain yg menerapkan listrik.

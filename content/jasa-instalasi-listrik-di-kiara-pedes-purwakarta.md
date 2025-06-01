@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kiara Pedes Purwakarta"
-date: "2024-06-15"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kiara Pedes Purwakarta. Demikinlah informasi yang mampu kami sampaikan perihal Jasa Instalasi Listrik di Kiara Pedes Purwakarta. Se..."
+title: Jasa Instalasi Listrik di Kiara Pedes Purwakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kiara Pedes Purwakarta. Demikinlah informasi yang
+  mampu kami sampaikan perihal Jasa Instalasi Listrik di Kiara Pedes Purwakarta.
+  Se...
 ---
 
 **Jasa Instalasi Listrik di Kiara Pedes Purwakarta** – Listrik menjadi bagian kebutuhan semua manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap manusia pastinya akan sulit untuk melaksanakan aktivitas sehari-harinya yg berkaitan dg listirik. Sebagian kesibukan yg terkait dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Malah ada juga proyek yg membutuhkan listrik.

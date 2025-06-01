@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Margajaya Bogor"
-date: "2024-06-06"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Margajaya Bogor. Demikinlah info yang mampu kami sampaikan tentang Jasa Instalasi Listrik di Margajaya Bogor. Kalau diantara anda a..."
+title: Jasa Instalasi Listrik di Margajaya Bogor
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Margajaya Bogor. Demikinlah info yang mampu kami
+  sampaikan tentang Jasa Instalasi Listrik di Margajaya Bogor. Kalau diantara
+  anda a...
 ---
 
 **Jasa Instalasi Listrik di Margajaya Bogor** – Listrik merupakan bagian sumber aliran daya listrik yg paling penting untuk kehidupan manusia. Tiap tempat tinggal memerlukan listrik sebagai sumber aliran arus listrik yg amat paling diharapkan, beberapa diantaranya semisal penerapan lampu, televise, mesin cuci, dan perlengkapan yang lain yang menggunakan listrik.

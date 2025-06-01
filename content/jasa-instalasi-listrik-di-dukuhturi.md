@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Dukuhturi"
-date: "2024-06-05"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Dukuhturi. Demikinlah pemaparan yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Dukuhturi. Sekiranya diantara anda ada..."
+title: Jasa Instalasi Listrik di Dukuhturi
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Dukuhturi. Demikinlah pemaparan yang dapat kami
+  sampaikan perihal Jasa Instalasi Listrik di Dukuhturi. Sekiranya diantara anda
+  ada...
 ---
 
 **Jasa Instalasi Listrik di Dukuhturi** – Listrik bakal jadi satu satunya kebutuhan seluruh manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, semua masyarakat tentunya akan sulit untuk mengerjakan kegiatan sehari-harinya yang terkait dengan listirik. Beberapa kegiatan yg terkait dg listrik seperti menonton tv, menyalakan kulkas, lampu, dll. Malahan ada juga pekerjaan yg memerlukan listrik.

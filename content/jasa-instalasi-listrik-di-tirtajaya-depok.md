@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Tirtajaya Depok"
-date: "2024-06-02"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Tirtajaya Depok. Sampai disini informasi yang mampu kami uraikan perihal Jasa Instalasi Listrik di Tirtajaya Depok. Bila diantara a..."
+title: Jasa Instalasi Listrik di Tirtajaya Depok
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Tirtajaya Depok. Sampai disini informasi yang mampu
+  kami uraikan perihal Jasa Instalasi Listrik di Tirtajaya Depok. Bila diantara
+  a...
 ---
 
 **Jasa Instalasi Listrik di Tirtajaya Depok** – Listrik adalah beberapa sumber aliran energi listrik yg paling sangat dibutuhkan untuk kehidupan manusia. Tiap rumah memerlukan listrik sebagai sumber aliran daya listrik yg amat paling dibutuhkan, sebagian diantaranya seperti penggunaan lampu, televise, mesin cuci, dan kelengkapan yang lain yang mengaplikasikan listrik.

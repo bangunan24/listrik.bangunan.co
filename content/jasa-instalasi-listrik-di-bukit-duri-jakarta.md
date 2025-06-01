@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Bukit Duri Jakarta"
-date: "2024-06-15"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Bukit Duri Jakarta. Seperti itulah informasi yang dapat kami uraikan tentang Jasa Instalasi Listrik di Bukit Duri Jakarta. Jika dia..."
+title: Jasa Instalasi Listrik di Bukit Duri Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Bukit Duri Jakarta. Seperti itulah informasi yang
+  dapat kami uraikan tentang Jasa Instalasi Listrik di Bukit Duri Jakarta. Jika
+  dia...
 ---
 
 **Jasa Instalasi Listrik di Bukit Duri Jakarta** – Listrik akan menjadi satu satunya keperluan tiap-tiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, semua masyarakat tentunya akan susah untuk menjalankan aktivitas sehari-harinya yg terkait dg listirik. Beberapa kesibukan yang berkaitan dg listrik seperti menonton tv, menyalakan kulkas, lampu, dan lainnya. Malah ada juga projek yang memerlukan listrik.

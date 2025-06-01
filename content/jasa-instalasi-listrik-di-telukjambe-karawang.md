@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Telukjambe Karawang"
-date: "2024-06-15"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Telukjambe Karawang. Itulah pemaparan yang bisa kami uraikan perihal Jasa Instalasi Listrik di Telukjambe Karawang. Jika diantara a..."
+title: Jasa Instalasi Listrik di Telukjambe Karawang
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Telukjambe Karawang. Itulah pemaparan yang bisa kami
+  uraikan perihal Jasa Instalasi Listrik di Telukjambe Karawang. Jika diantara
+  a...
 ---
 
 **Jasa Instalasi Listrik di Telukjambe Karawang** – Listrik yakni beberapa sumber aliran tenaga listrik yg paling penting untuk kehidupan manusia. Tiap-tiap tempat tinggal membutuhkan listrik sebagai sumber aliran daya listrik yg cukup utama, beberapa diantaranya semisal penggunaan lampu, televise, mesin cuci, dan peralatan yang lain yg mengaplikasikan listrik.

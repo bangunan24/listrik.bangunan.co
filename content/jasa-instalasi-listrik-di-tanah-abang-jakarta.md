@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Tanah Abang Jakarta"
-date: "2024-06-02"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Tanah Abang Jakarta. Seperti itulah penjelasan yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Tanah Abang Jakarta. Kal..."
+title: Jasa Instalasi Listrik di Tanah Abang Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Tanah Abang Jakarta. Seperti itulah penjelasan yang
+  dapat kami sampaikan tentang Jasa Instalasi Listrik di Tanah Abang Jakarta.
+  Kal...
 ---
 
 **Jasa Instalasi Listrik di Tanah Abang Jakarta** – Listrik yaitu bagian dari sumber aliran tenaga listrik yang paling utama untuk kehidupan manusia. Tiap tempat tinggal membutuhkan listrik sebagai sumber aliran energi listrik yang cukup urgent, beberapa diantaranya semisal penerapan lampu, televise, mesin cuci, dan perlengkapan yang lain yang mengaplikasikan listrik.

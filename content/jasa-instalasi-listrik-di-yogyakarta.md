@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Yogyakarta"
-date: "2024-06-23"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Yogyakarta. Seperti itulah info yang mampu kami uraikan perihal Jasa Instalasi Listrik di Yogyakarta. Bila diantara anda ada yang s..."
+title: Jasa Instalasi Listrik di Yogyakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Yogyakarta. Seperti itulah info yang mampu kami
+  uraikan perihal Jasa Instalasi Listrik di Yogyakarta. Bila diantara anda ada
+  yang s...
 ---
 
 **Jasa Instalasi Listrik di Yogyakarta** – Listrik adalah bagian dari sumber aliran daya listrik yg paling penting untuk kehidupan manusia. Masing-masing rumah memerlukan listrik sbg sumber aliran tenaga listrik yg teramat utama, beberapa diantaranya seperti pemakaian lampu, televise, mesin cuci, dan perlengkapan yang lain yg memakai listrik.

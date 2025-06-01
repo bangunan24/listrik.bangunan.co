@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Sragen"
-date: "2024-06-17"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Sragen. Itulah pemaparan yang dapat kami uraikan perihal Jasa Instalasi Listrik di Sragen. Seandainya diantara anda ada yang sedang..."
+title: Jasa Instalasi Listrik di Sragen
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Sragen. Itulah pemaparan yang dapat kami uraikan
+  perihal Jasa Instalasi Listrik di Sragen. Seandainya diantara anda ada yang
+  sedang...
 ---
 
 **Jasa Instalasi Listrik di Sragen** – Listrik merupakan beberapa sumber aliran arus listrik yg paling urgent untuk kehidupan manusia. Setiap rumah membutuhkan listrik sbg sumber aliran energi listrik yg cukup paling dibutuhkan, sebagian diantaranya seperti penerapan lampu, televise, mesin cuci, dan kelengkapan yang lain yang mengaplikasikan listrik.

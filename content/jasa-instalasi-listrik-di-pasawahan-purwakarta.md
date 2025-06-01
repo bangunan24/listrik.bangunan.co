@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Pasawahan Purwakarta"
-date: "2024-06-19"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Pasawahan Purwakarta. Demikinlah informasi yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Pasawahan Purwakarta. Bila d..."
+title: Jasa Instalasi Listrik di Pasawahan Purwakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Pasawahan Purwakarta. Demikinlah informasi yang
+  dapat kami sampaikan perihal Jasa Instalasi Listrik di Pasawahan Purwakarta.
+  Bila d...
 ---
 
 **Jasa Instalasi Listrik di Pasawahan Purwakarta** – Listrik adalah bagian dari sumber aliran energi listrik yang paling urgent untuk kehidupan manusia. Masing-masing tempat tinggal membutuhkan listrik sbg sumber aliran daya listrik yg cukup penting, sebagian diantaranya seperti pengaplikasian lampu, televise, mesin cuci, dan perlengkapan lainnya yang menerapkan listrik.

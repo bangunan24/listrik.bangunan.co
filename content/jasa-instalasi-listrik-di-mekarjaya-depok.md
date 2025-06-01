@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Mekarjaya Depok"
-date: "2024-06-14"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Mekarjaya Depok. Sampai disini info yang mampu kami uraikan tentang Jasa Instalasi Listrik di Mekarjaya Depok. Sekiranya diantara a..."
+title: Jasa Instalasi Listrik di Mekarjaya Depok
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Mekarjaya Depok. Sampai disini info yang mampu kami
+  uraikan tentang Jasa Instalasi Listrik di Mekarjaya Depok. Sekiranya diantara
+  a...
 ---
 
 **Jasa Instalasi Listrik di Mekarjaya Depok** – Listrik yakni salah satu sumber aliran daya listrik yang paling paling diperlukan untuk kehidupan manusia. Setiap hunian membutuhkan listrik sebagai sumber aliran energi listrik yg amat utama, beberapa diantaranya semisal pengaplikasian lampu, televise, mesin cuci, dan peralatan lainnya yang menggunakan listrik.

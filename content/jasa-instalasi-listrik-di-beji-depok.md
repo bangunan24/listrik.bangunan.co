@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Beji Depok"
-date: "2024-06-15"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Beji Depok. Itulah informasi yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Beji Depok. Kalau diantara anda ada yang se..."
+title: Jasa Instalasi Listrik di Beji Depok
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Beji Depok. Itulah informasi yang bisa kami
+  sampaikan perihal Jasa Instalasi Listrik di Beji Depok. Kalau diantara anda
+  ada yang se...
 ---
 
 **Jasa Instalasi Listrik di Beji Depok** – Listrik menjadi beberapa keperluan seluruh orang dalam kehidupan sehari-hari. Tanpa adanya listrik, semua masyarakat tentunya akan susah untuk mengerjakan kegiatan sehari-harinya yang berkaitan dg listirik. Beberapa kesibukan yg terkait dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Malahan ada juga proyek yg memerlukan listrik.

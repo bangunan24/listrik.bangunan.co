@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cilamaya Karawang"
-date: "2024-06-10"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cilamaya Karawang. Itulah penjelasan yang bisa kami sampaikan tentang Jasa Instalasi Listrik di Cilamaya Karawang. Sekiranya dianta..."
+title: Jasa Instalasi Listrik di Cilamaya Karawang
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cilamaya Karawang. Itulah penjelasan yang bisa kami
+  sampaikan tentang Jasa Instalasi Listrik di Cilamaya Karawang. Sekiranya
+  dianta...
 ---
 
 **Jasa Instalasi Listrik di Cilamaya Karawang** – Listrik bakal jadi bagian keperluan tiap-tiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap manusia pastinya akan susah untuk mengerjakan kesibukan sehari-harinya yang terkait dg listirik. Beberapa kegiatan yg terkait dg listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Malahan ada juga pekerjaan yang membutuhkan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Telagasari Karawang"
-date: "2024-06-07"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Telagasari Karawang. Sampai disini penjelasan yang mampu kami sampaikan perihal Jasa Instalasi Listrik di Telagasari Karawang. Jika..."
+title: Jasa Instalasi Listrik di Telagasari Karawang
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Telagasari Karawang. Sampai disini penjelasan yang
+  mampu kami sampaikan perihal Jasa Instalasi Listrik di Telagasari Karawang.
+  Jika...
 ---
 
 **Jasa Instalasi Listrik di Telagasari Karawang** – Listrik merupakan beberapa sumber aliran arus listrik yg paling penting untuk kehidupan manusia. Setiap rumah membutuhkan listrik sebagai sumber aliran arus listrik yg teramat sangat diperlukan, sebagian diantaranya seperti penggunaan lampu, televise, mesin cuci, dan kelengkapan yang lain yg menggunakan listrik.

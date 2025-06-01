@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kuningan Jakarta"
-date: "2024-06-04"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kuningan Jakarta. Itulah info yang mampu kami sampaikan tentang Jasa Instalasi Listrik di Kuningan Jakarta. Sekiranya diantara anda..."
+title: Jasa Instalasi Listrik di Kuningan Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kuningan Jakarta. Itulah info yang mampu kami
+  sampaikan tentang Jasa Instalasi Listrik di Kuningan Jakarta. Sekiranya
+  diantara anda...
 ---
 
 **Jasa Instalasi Listrik di Kuningan Jakarta** – Listrik akan menjadi bagian keperluan seluruh manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, seluruh orang pastinya akan susah untuk melaksanakan kegiatan sehari-harinya yg berkaitan dg listirik. Sebagian aktivitas yg berhubungan dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Bahkan ada juga projek yang memerlukan listrik.

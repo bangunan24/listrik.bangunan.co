@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Palembang"
-date: "2024-06-09"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Palembang. Itulah info yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Palembang. Seandainya diantara anda ada yang sed..."
+title: Jasa Instalasi Listrik di Palembang
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Palembang. Itulah info yang dapat kami sampaikan
+  perihal Jasa Instalasi Listrik di Palembang. Seandainya diantara anda ada yang
+  sed...
 ---
 
 **Jasa Instalasi Listrik di Palembang** – Listrik merupakan bagian dari sumber aliran tenaga listrik yg paling penting untuk kehidupan manusia. Tiap-tiap tempat tinggal memerlukan listrik sbg sumber aliran arus listrik yang teramat penting, beberapa diantaranya seperti penerapan lampu, televise, mesin cuci, dan kelengkapan yang lain yg mengaplikasikan listrik.

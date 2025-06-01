@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Pondok Bambu Jakarta"
-date: "2024-06-04"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Pondok Bambu Jakarta. Demikinlah informasi yang bisa kami uraikan tentang Jasa Instalasi Listrik di Pondok Bambu Jakarta. Apabila d..."
+title: Jasa Instalasi Listrik di Pondok Bambu Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Pondok Bambu Jakarta. Demikinlah informasi yang bisa
+  kami uraikan tentang Jasa Instalasi Listrik di Pondok Bambu Jakarta. Apabila
+  d...
 ---
 
 **Jasa Instalasi Listrik di Pondok Bambu Jakarta** – Listrik merupakan beberapa sumber aliran tenaga listrik yang paling paling diinginkan untuk kehidupan manusia. Setiap hunian membutuhkan listrik sbg sumber aliran tenaga listrik yg amat utama, beberapa diantaranya seperti penggunaan lampu, televise, mesin cuci, dan kelengkapan lainnya yg mengaplikasikan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Majalaya"
-date: "2024-06-30"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Majalaya. Demikinlah penjelasan yang bisa kami uraikan perihal Jasa Instalasi Listrik di Majalaya. Sekiranya diantara anda ada yang..."
+title: Jasa Instalasi Listrik di Majalaya
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Majalaya. Demikinlah penjelasan yang bisa kami
+  uraikan perihal Jasa Instalasi Listrik di Majalaya. Sekiranya diantara anda
+  ada yang...
 ---
 
 **Jasa Instalasi Listrik di Majalaya** – Listrik adalah sebuah sumber aliran arus listrik yg paling penting untuk kehidupan manusia. Tiap tempat tinggal membutuhkan listrik sbg sumber aliran tenaga listrik yg cukup penting, beberapa diantaranya seperti penerapan lampu, televise, mesin cuci, dan kelengkapan lainnya yang menggunakan listrik.

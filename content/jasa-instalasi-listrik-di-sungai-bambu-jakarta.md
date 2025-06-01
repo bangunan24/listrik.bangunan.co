@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Sungai Bambu Jakarta"
-date: "2024-06-09"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Sungai Bambu Jakarta. Itulah info yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Sungai Bambu Jakarta. Kalau diantara..."
+title: Jasa Instalasi Listrik di Sungai Bambu Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Sungai Bambu Jakarta. Itulah info yang dapat kami
+  sampaikan tentang Jasa Instalasi Listrik di Sungai Bambu Jakarta. Kalau
+  diantara...
 ---
 
 **Jasa Instalasi Listrik di Sungai Bambu Jakarta** – Listrik adalah bagian dari sumber aliran arus listrik yang paling urgent untuk kehidupan manusia. Setiap hunian membutuhkan listrik sebagai sumber aliran tenaga listrik yang teramat urgent, beberapa diantaranya semisal penerapan lampu, televise, mesin cuci, dan peralatan lainnya yg menerapkan listrik.

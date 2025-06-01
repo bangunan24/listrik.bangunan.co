@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Pasar Minggu Jakarta"
-date: "2024-06-11"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Pasar Minggu Jakarta. Demikinlah penjelasan yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Pasar Minggu Jakarta. Seand..."
+title: Jasa Instalasi Listrik di Pasar Minggu Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Pasar Minggu Jakarta. Demikinlah penjelasan yang
+  dapat kami sampaikan perihal Jasa Instalasi Listrik di Pasar Minggu Jakarta.
+  Seand...
 ---
 
 **Jasa Instalasi Listrik di Pasar Minggu Jakarta** – Listrik merupakan salah satu sumber aliran arus listrik yang paling penting untuk kehidupan manusia. Tiap-tiap rumah membutuhkan listrik sebagai sumber aliran daya listrik yang teramat sangat diperlukan, beberapa diantaranya semisal pemakaian lampu, televise, mesin cuci, dan perlengkapan lainnya yg menggunakan listrik.

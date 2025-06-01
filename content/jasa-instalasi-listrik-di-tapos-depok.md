@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Tapos Depok"
-date: "2024-06-20"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Tapos Depok. Sampai disini info yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Tapos Depok. Seandainya diantara anda a..."
+title: Jasa Instalasi Listrik di Tapos Depok
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Tapos Depok. Sampai disini info yang dapat kami
+  sampaikan tentang Jasa Instalasi Listrik di Tapos Depok. Seandainya diantara
+  anda a...
 ---
 
 **Jasa Instalasi Listrik di Tapos Depok** – Listrik ialah sebuah sumber aliran arus listrik yang paling paling diperlukan untuk kehidupan manusia. Setiap hunian membutuhkan listrik sbg sumber aliran daya listrik yang amat penting, beberapa diantaranya seperti pemakaian lampu, televise, mesin cuci, dan kelengkapan yang lain yg menggunakan listrik.

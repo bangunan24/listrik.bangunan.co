@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di PalMeriam Jakarta"
-date: "2024-06-08"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di PalMeriam Jakarta. Demikinlah info yang bisa kami sampaikan perihal Jasa Instalasi Listrik di PalMeriam Jakarta. Seandainya diantar..."
+title: Jasa Instalasi Listrik di PalMeriam Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di PalMeriam Jakarta. Demikinlah info yang bisa kami
+  sampaikan perihal Jasa Instalasi Listrik di PalMeriam Jakarta. Seandainya
+  diantar...
 ---
 
 **Jasa Instalasi Listrik di PalMeriam Jakarta** – Listrik adalah bagian sumber aliran daya listrik yang paling utama untuk kehidupan manusia. Tiap tempat tinggal membutuhkan listrik sebagai sumber aliran arus listrik yg teramat penting, beberapa diantaranya semisal pengaplikasian lampu, televise, mesin cuci, dan kelengkapan lainnya yang menggunakan listrik.

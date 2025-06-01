@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Pebayuran Bekasi"
-date: "2024-06-16"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Pebayuran Bekasi. Seperti itulah info yang mampu kami sampaikan tentang Jasa Instalasi Listrik di Pebayuran Bekasi. Sekiranya diant..."
+title: Jasa Instalasi Listrik di Pebayuran Bekasi
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Pebayuran Bekasi. Seperti itulah info yang mampu
+  kami sampaikan tentang Jasa Instalasi Listrik di Pebayuran Bekasi. Sekiranya
+  diant...
 ---
 
 **Jasa Instalasi Listrik di Pebayuran Bekasi** – Listrik merupakan beberapa sumber aliran daya listrik yang paling sangat diinginkan untuk kehidupan manusia. Tiap tempat tinggal memerlukan listrik sebagai sumber aliran energi listrik yg teramat sangat dibutuhkan, beberapa diantaranya seperti penggunaan lampu, televise, mesin cuci, dan peralatan yang lain yg menerapkan listrik.

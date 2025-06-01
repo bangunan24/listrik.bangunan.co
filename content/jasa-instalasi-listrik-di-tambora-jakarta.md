@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Tambora Jakarta"
-date: "2024-06-18"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Tambora Jakarta. Sampai disini informasi yang mampu kami sampaikan perihal Jasa Instalasi Listrik di Tambora Jakarta. Jika diantara..."
+title: Jasa Instalasi Listrik di Tambora Jakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Tambora Jakarta. Sampai disini informasi yang mampu
+  kami sampaikan perihal Jasa Instalasi Listrik di Tambora Jakarta. Jika
+  diantara...
 ---
 
 **Jasa Instalasi Listrik di Tambora Jakarta** – Listrik ialah bagian sumber aliran tenaga listrik yg paling sangat diperlukan untuk kehidupan manusia. Tiap hunian membutuhkan listrik sebagai sumber aliran arus listrik yg amat utama, beberapa diantaranya seperti pengaplikasian lampu, televise, mesin cuci, dan peralatan yang lain yang mengaplikasikan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kutawaluya Karawang"
-date: "2024-06-09"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kutawaluya Karawang. Seperti itulah info yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Kutawaluya Karawang. Seandainy..."
+title: Jasa Instalasi Listrik di Kutawaluya Karawang
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kutawaluya Karawang. Seperti itulah info yang dapat
+  kami sampaikan tentang Jasa Instalasi Listrik di Kutawaluya Karawang.
+  Seandainy...
 ---
 
 **Jasa Instalasi Listrik di Kutawaluya Karawang** – Listrik menjadi bagian kebutuhan tiap-tiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap manusia pastinya akan sulit untuk melaksanakan kesibukan sehari-harinya yg terkait dg listirik. Beberapa kesibukan yg berkaitan dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Bahkan ada juga projek yang memerlukan listrik.

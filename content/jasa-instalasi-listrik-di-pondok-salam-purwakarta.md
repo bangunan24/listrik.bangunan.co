@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Pondok Salam Purwakarta"
-date: "2024-06-29"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Pondok Salam Purwakarta. Sampai disini pemaparan yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Pondok Salam Purwakarta..."
+title: Jasa Instalasi Listrik di Pondok Salam Purwakarta
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Pondok Salam Purwakarta. Sampai disini pemaparan
+  yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Pondok Salam
+  Purwakarta...
 ---
 
 **Jasa Instalasi Listrik di Pondok Salam Purwakarta** – Listrik adalah beberapa sumber aliran energi listrik yang paling penting untuk kehidupan manusia. Tiap tempat tinggal memerlukan listrik sebagai sumber aliran energi listrik yang amat penting, sebagian diantaranya semisal pemakaian lampu, televise, mesin cuci, dan kelengkapan yang lain yg menggunakan listrik.
