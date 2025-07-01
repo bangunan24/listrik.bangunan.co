@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Palu"
-date: "2024-07-03"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Palu. Demikinlah pemaparan yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Palu. Bila diantara anda ada yang sedang menc..."
+title: Jasa Instalasi Listrik di Palu
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Palu. Demikinlah pemaparan yang bisa kami sampaikan
+  perihal Jasa Instalasi Listrik di Palu. Bila diantara anda ada yang sedang
+  menc...
 ---
 
 **Jasa Instalasi Listrik di Palu** – Listrik yaitu beberapa sumber aliran arus listrik yang paling paling diharapkan untuk kehidupan manusia. Tiap tempat tinggal memerlukan listrik sbg sumber aliran daya listrik yg teramat sangat diinginkan, beberapa diantaranya semisal penerapan lampu, televise, mesin cuci, dan kelengkapan lainnya yang menggunakan listrik.

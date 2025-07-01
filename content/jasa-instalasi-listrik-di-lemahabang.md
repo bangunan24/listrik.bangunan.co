@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Lemahabang"
-date: "2024-07-31"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Lemahabang. Sampai disini info yang mampu kami uraikan tentang Jasa Instalasi Listrik di Lemahabang. Sekiranya diantara anda ada ya..."
+title: Jasa Instalasi Listrik di Lemahabang
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Lemahabang. Sampai disini info yang mampu kami
+  uraikan tentang Jasa Instalasi Listrik di Lemahabang. Sekiranya diantara anda
+  ada ya...
 ---
 
 **Jasa Instalasi Listrik di Lemahabang** – Listrik yakni beberapa sumber aliran arus listrik yg paling utama untuk kehidupan manusia. Setiap rumah membutuhkan listrik sbg sumber aliran energi listrik yg cukup urgent, sebagian diantaranya seperti pemakaian lampu, televise, mesin cuci, dan kelengkapan yang lain yg menggunakan listrik.

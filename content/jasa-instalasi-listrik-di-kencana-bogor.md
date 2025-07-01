@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kencana Bogor"
-date: "2024-07-07"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kencana Bogor. Sampai disini pemaparan yang mampu kami uraikan tentang Jasa Instalasi Listrik di Kencana Bogor. Sekiranya diantara..."
+title: Jasa Instalasi Listrik di Kencana Bogor
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kencana Bogor. Sampai disini pemaparan yang mampu
+  kami uraikan tentang Jasa Instalasi Listrik di Kencana Bogor. Sekiranya
+  diantara...
 ---
 
 **Jasa Instalasi Listrik di Kencana Bogor** – Listrik akan menjadi bagian kebutuhan semua orang dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap orang tentunya akan sulit untuk menjalankan kegiatan sehari-harinya yg berkaitan dengan listirik. Sebagian kegiatan yg berkaitan dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dan lainnya. Bahkan ada juga projek yang membutuhkan listrik.

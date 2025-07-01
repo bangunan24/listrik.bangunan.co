@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Keagungan Jakarta"
-date: "2024-07-26"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Keagungan Jakarta. Itulah penjelasan yang mampu kami sampaikan tentang Jasa Instalasi Listrik di Keagungan Jakarta. Seandainya dian..."
+title: Jasa Instalasi Listrik di Keagungan Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Keagungan Jakarta. Itulah penjelasan yang mampu kami
+  sampaikan tentang Jasa Instalasi Listrik di Keagungan Jakarta. Seandainya
+  dian...
 ---
 
 **Jasa Instalasi Listrik di Keagungan Jakarta** – Listrik menjadi bagian keperluan setiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap masyarakat tentunya akan sulit untuk melaksanakan kegiatan sehari-harinya yg berhubungan dg listirik. Beberapa kegiatan yang berhubungan dg listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Malah ada juga projek yg membutuhkan listrik.

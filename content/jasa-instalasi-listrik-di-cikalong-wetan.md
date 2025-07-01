@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cikalong Wetan"
-date: "2024-07-01"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cikalong Wetan. Seperti itulah penjelasan yang dapat kami uraikan tentang Jasa Instalasi Listrik di Cikalong Wetan. Sekiranya diant..."
+title: Jasa Instalasi Listrik di Cikalong Wetan
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cikalong Wetan. Seperti itulah penjelasan yang dapat
+  kami uraikan tentang Jasa Instalasi Listrik di Cikalong Wetan. Sekiranya
+  diant...
 ---
 
 **Jasa Instalasi Listrik di Cikalong Wetan** – Listrik menjadi beberapa keperluan setiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, semua masyarakat tentunya akan sulit untuk mengerjakan aktivitas sehari-harinya yg berkaitan dengan listirik. Sebagian aktivitas yg berkaitan dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dan lain sebagainya. Malahan ada juga projek yg membutuhkan listrik.

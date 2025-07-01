@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cibatu Purwakarta"
-date: "2024-07-23"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cibatu Purwakarta. Seperti itulah penjelasan yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Cibatu Purwakarta. Jika di..."
+title: Jasa Instalasi Listrik di Cibatu Purwakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cibatu Purwakarta. Seperti itulah penjelasan yang
+  dapat kami sampaikan perihal Jasa Instalasi Listrik di Cibatu Purwakarta. Jika
+  di...
 ---
 
 **Jasa Instalasi Listrik di Cibatu Purwakarta** – Listrik bakal jadi bagian kebutuhan seluruh manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap manusia tentunya akan sulit untuk melaksanakan aktivitas sehari-harinya yg terkait dengan listirik. Beberapa kegiatan yang terkait dg listrik seperti menonton tv, menyalakan kulkas, lampu, dll. Bahkan ada juga pekerjaan yg memerlukan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cilebar Karawang"
-date: "2024-07-11"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cilebar Karawang. Sampai disini penjelasan yang mampu kami sampaikan perihal Jasa Instalasi Listrik di Cilebar Karawang. Bila diant..."
+title: Jasa Instalasi Listrik di Cilebar Karawang
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cilebar Karawang. Sampai disini penjelasan yang
+  mampu kami sampaikan perihal Jasa Instalasi Listrik di Cilebar Karawang. Bila
+  diant...
 ---
 
 **Jasa Instalasi Listrik di Cilebar Karawang** – Listrik bakal jadi bagian dari keperluan seluruh manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap manusia pastinya akan sulit untuk melakukan kesibukan sehari-harinya yang berkaitan dg listirik. Sebagian kesibukan yang terkait dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Bahkan ada juga pekerjaan yang memerlukan listrik.

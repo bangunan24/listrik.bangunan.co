@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Campaka Purwakarta"
-date: "2024-07-06"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Campaka Purwakarta. Demikinlah penjelasan yang mampu kami uraikan perihal Jasa Instalasi Listrik di Campaka Purwakarta. Jikalau dia..."
+title: Jasa Instalasi Listrik di Campaka Purwakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Campaka Purwakarta. Demikinlah penjelasan yang mampu
+  kami uraikan perihal Jasa Instalasi Listrik di Campaka Purwakarta. Jikalau
+  dia...
 ---
 
 **Jasa Instalasi Listrik di Campaka Purwakarta** – Listrik menjadi beberapa kebutuhan tiap-tiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, semua masyarakat tentunya akan susah untuk menjalankan kegiatan sehari-harinya yang berhubungan dengan listirik. Beberapa kegiatan yang berkaitan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dll. Malahan ada juga projek yg memerlukan listrik.

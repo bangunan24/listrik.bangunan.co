@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Pangkalan Karawang"
-date: "2024-07-16"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Pangkalan Karawang. Sampai disini pemaparan yang mampu kami sampaikan perihal Jasa Instalasi Listrik di Pangkalan Karawang. Bila di..."
+title: Jasa Instalasi Listrik di Pangkalan Karawang
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Pangkalan Karawang. Sampai disini pemaparan yang
+  mampu kami sampaikan perihal Jasa Instalasi Listrik di Pangkalan Karawang.
+  Bila di...
 ---
 
 **Jasa Instalasi Listrik di Pangkalan Karawang** – Listrik ialah bagian sumber aliran arus listrik yang paling paling diinginkan untuk kehidupan manusia. Tiap rumah memerlukan listrik sebagai sumber aliran arus listrik yang amat paling diperlukan, beberapa diantaranya seperti penggunaan lampu, televise, mesin cuci, dan peralatan lainnya yang menggunakan listrik.

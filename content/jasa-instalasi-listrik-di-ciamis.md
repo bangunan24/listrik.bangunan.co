@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Ciamis"
-date: "2024-07-20"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Ciamis. Demikinlah penjelasan yang bisa kami uraikan tentang Jasa Instalasi Listrik di Ciamis. Sekiranya diantara anda ada yang sed..."
+title: Jasa Instalasi Listrik di Ciamis
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Ciamis. Demikinlah penjelasan yang bisa kami uraikan
+  tentang Jasa Instalasi Listrik di Ciamis. Sekiranya diantara anda ada yang
+  sed...
 ---
 
 **Jasa Instalasi Listrik di Ciamis** – Listrik menjadi bagian keperluan setiap masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap manusia tentunya akan sulit untuk menjalankan aktivitas sehari-harinya yg terkait dg listirik. Sebagian kesibukan yang berhubungan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Malahan ada juga proyek yg memerlukan listrik.

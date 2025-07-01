@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Manggarai Jakarta"
-date: "2024-07-11"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Manggarai Jakarta. Seperti itulah informasi yang dapat kami uraikan tentang Jasa Instalasi Listrik di Manggarai Jakarta. Kalau dian..."
+title: Jasa Instalasi Listrik di Manggarai Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Manggarai Jakarta. Seperti itulah informasi yang
+  dapat kami uraikan tentang Jasa Instalasi Listrik di Manggarai Jakarta. Kalau
+  dian...
 ---
 
 **Jasa Instalasi Listrik di Manggarai Jakarta** – Listrik yaitu beberapa sumber aliran tenaga listrik yang paling utama untuk kehidupan manusia. Masing-masing hunian membutuhkan listrik sebagai sumber aliran tenaga listrik yang amat sangat diharapkan, beberapa diantaranya seperti penerapan lampu, televise, mesin cuci, dan peralatan yang lain yang menggunakan listrik.

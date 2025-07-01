@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Purworejo"
-date: "2024-07-14"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Purworejo. Itulah pemaparan yang mampu kami sampaikan perihal Jasa Instalasi Listrik di Purworejo. Apabila diantara anda ada yang s..."
+title: Jasa Instalasi Listrik di Purworejo
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Purworejo. Itulah pemaparan yang mampu kami
+  sampaikan perihal Jasa Instalasi Listrik di Purworejo. Apabila diantara anda
+  ada yang s...
 ---
 
 **Jasa Instalasi Listrik di Purworejo** – Listrik adalah bagian dari sumber aliran tenaga listrik yg paling paling diharapkan untuk kehidupan manusia. Setiap hunian memerlukan listrik sebagai sumber aliran arus listrik yg teramat utama, beberapa diantaranya seperti pengaplikasian lampu, televise, mesin cuci, dan perlengkapan lainnya yang menggunakan listrik.

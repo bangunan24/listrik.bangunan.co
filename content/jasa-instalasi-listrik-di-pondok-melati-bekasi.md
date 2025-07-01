@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Pondok Melati Bekasi"
-date: "2024-07-24"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Pondok Melati Bekasi. Sampai disini info yang bisa kami uraikan perihal Jasa Instalasi Listrik di Pondok Melati Bekasi. Sekiranya d..."
+title: Jasa Instalasi Listrik di Pondok Melati Bekasi
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Pondok Melati Bekasi. Sampai disini info yang bisa
+  kami uraikan perihal Jasa Instalasi Listrik di Pondok Melati Bekasi. Sekiranya
+  d...
 ---
 
 **Jasa Instalasi Listrik di Pondok Melati Bekasi** – Listrik ialah bagian sumber aliran daya listrik yang paling sangat diharapkan untuk kehidupan manusia. Tiap hunian memerlukan listrik sebagai sumber aliran tenaga listrik yg amat penting, beberapa diantaranya seperti pengaplikasian lampu, televise, mesin cuci, dan peralatan lainnya yang menerapkan listrik.

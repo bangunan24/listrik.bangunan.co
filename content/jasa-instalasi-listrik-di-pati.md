@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Pati"
-date: "2024-07-10"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Pati. Sampai disini pemaparan yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Pati. Sekiranya diantara anda ada yang se..."
+title: Jasa Instalasi Listrik di Pati
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Pati. Sampai disini pemaparan yang dapat kami
+  sampaikan perihal Jasa Instalasi Listrik di Pati. Sekiranya diantara anda ada
+  yang se...
 ---
 
 **Jasa Instalasi Listrik di Pati** – Listrik adalah sebuah sumber aliran arus listrik yg paling urgent untuk kehidupan manusia. Tiap rumah memerlukan listrik sebagai sumber aliran tenaga listrik yg cukup utama, beberapa diantaranya semisal penggunaan lampu, televise, mesin cuci, dan perlengkapan yang lain yg memakai listrik.

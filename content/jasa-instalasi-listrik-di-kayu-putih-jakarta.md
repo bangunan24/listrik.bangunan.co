@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kayu Putih Jakarta"
-date: "2024-07-20"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kayu Putih Jakarta. Demikinlah informasi yang bisa kami sampaikan tentang Jasa Instalasi Listrik di Kayu Putih Jakarta. Sekiranya d..."
+title: Jasa Instalasi Listrik di Kayu Putih Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kayu Putih Jakarta. Demikinlah informasi yang bisa
+  kami sampaikan tentang Jasa Instalasi Listrik di Kayu Putih Jakarta. Sekiranya
+  d...
 ---
 
 **Jasa Instalasi Listrik di Kayu Putih Jakarta** – Listrik akan menjadi beberapa keperluan tiap-tiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap masyarakat pastinya akan sulit untuk melaksanakan kesibukan sehari-harinya yg berkaitan dengan listirik. Beberapa kegiatan yang berhubungan dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Bahkan ada juga projek yg membutuhkan listrik.

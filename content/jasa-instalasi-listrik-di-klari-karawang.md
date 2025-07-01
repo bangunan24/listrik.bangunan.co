@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Klari Karawang"
-date: "2024-07-02"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Klari Karawang. Itulah penjelasan yang bisa kami sampaikan tentang Jasa Instalasi Listrik di Klari Karawang. Bila diantara anda ada..."
+title: Jasa Instalasi Listrik di Klari Karawang
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Klari Karawang. Itulah penjelasan yang bisa kami
+  sampaikan tentang Jasa Instalasi Listrik di Klari Karawang. Bila diantara anda
+  ada...
 ---
 
 **Jasa Instalasi Listrik di Klari Karawang** – Listrik menjadi bagian keperluan setiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap manusia pastinya akan susah untuk melakukan aktivitas sehari-harinya yang terkait dg listirik. Sebagian aktivitas yang berkaitan dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dan lainnya. Malah ada juga pekerjaan yang memerlukan listrik.

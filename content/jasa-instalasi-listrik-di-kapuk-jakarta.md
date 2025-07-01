@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kapuk Jakarta"
-date: "2024-07-27"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kapuk Jakarta. Sampai disini informasi yang bisa kami uraikan tentang Jasa Instalasi Listrik di Kapuk Jakarta. Seandainya diantara..."
+title: Jasa Instalasi Listrik di Kapuk Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kapuk Jakarta. Sampai disini informasi yang bisa
+  kami uraikan tentang Jasa Instalasi Listrik di Kapuk Jakarta. Seandainya
+  diantara...
 ---
 
 **Jasa Instalasi Listrik di Kapuk Jakarta** – Listrik menjadi satu satunya kebutuhan setiap masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap orang tentunya akan susah untuk melakukan kesibukan sehari-harinya yang berhubungan dengan listirik. Beberapa aktivitas yang terkait dg listrik seperti menonton tv, menyalakan kulkas, lampu, dan lainnya. Malah ada juga projek yang memerlukan listrik.

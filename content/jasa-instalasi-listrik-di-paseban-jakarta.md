@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Paseban Jakarta"
-date: "2024-07-12"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Paseban Jakarta. Demikinlah info yang dapat kami uraikan tentang Jasa Instalasi Listrik di Paseban Jakarta. Bila diantara anda ada..."
+title: Jasa Instalasi Listrik di Paseban Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Paseban Jakarta. Demikinlah info yang dapat kami
+  uraikan tentang Jasa Instalasi Listrik di Paseban Jakarta. Bila diantara anda
+  ada...
 ---
 
 **Jasa Instalasi Listrik di Paseban Jakarta** – Listrik yakni sebuah sumber aliran energi listrik yg paling sangat diperlukan untuk kehidupan manusia. Tiap rumah memerlukan listrik sebagai sumber aliran tenaga listrik yang teramat penting, sebagian diantaranya seperti pengaplikasian lampu, televise, mesin cuci, dan perlengkapan lainnya yg menerapkan listrik.

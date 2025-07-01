@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Duri Jakarta"
-date: "2024-07-30"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Duri Jakarta. Itulah informasi yang bisa kami uraikan tentang Jasa Instalasi Listrik di Duri Jakarta. Jikalau diantara anda ada yan..."
+title: Jasa Instalasi Listrik di Duri Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Duri Jakarta. Itulah informasi yang bisa kami
+  uraikan tentang Jasa Instalasi Listrik di Duri Jakarta. Jikalau diantara anda
+  ada yan...
 ---
 
 **Jasa Instalasi Listrik di Duri Jakarta** – Listrik bakal jadi bagian kebutuhan setiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, semua manusia tentunya akan susah untuk melaksanakan aktivitas sehari-harinya yg berhubungan dengan listirik. Beberapa kesibukan yang terkait dg listrik semisal menonton tv, menyalakan kulkas, lampu, dan lainnya. Bahkan ada juga pekerjaan yg membutuhkan listrik.

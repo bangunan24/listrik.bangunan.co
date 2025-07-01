@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Maniis Purwakarta"
-date: "2024-07-07"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Maniis Purwakarta. Sampai disini pemaparan yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Maniis Purwakarta. Sekiranya..."
+title: Jasa Instalasi Listrik di Maniis Purwakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Maniis Purwakarta. Sampai disini pemaparan yang
+  dapat kami sampaikan tentang Jasa Instalasi Listrik di Maniis Purwakarta.
+  Sekiranya...
 ---
 
 **Jasa Instalasi Listrik di Maniis Purwakarta** – Listrik merupakan salah satu sumber aliran tenaga listrik yang paling sangat diinginkan untuk kehidupan manusia. Masing-masing hunian memerlukan listrik sbg sumber aliran arus listrik yang amat penting, sebagian diantaranya seperti pemakaian lampu, televise, mesin cuci, dan peralatan lainnya yg memakai listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Jatiluhur Purwakarta"
-date: "2024-07-29"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Jatiluhur Purwakarta. Sampai disini informasi yang dapat kami uraikan tentang Jasa Instalasi Listrik di Jatiluhur Purwakarta. Kalau..."
+title: Jasa Instalasi Listrik di Jatiluhur Purwakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Jatiluhur Purwakarta. Sampai disini informasi yang
+  dapat kami uraikan tentang Jasa Instalasi Listrik di Jatiluhur Purwakarta.
+  Kalau...
 ---
 
 **Jasa Instalasi Listrik di Jatiluhur Purwakarta** – Listrik akan menjadi beberapa keperluan tiap-tiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap manusia tentunya akan susah untuk melakukan kegiatan sehari-harinya yg berkaitan dengan listirik. Sebagian aktivitas yg berhubungan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dll. Malah ada juga projek yg memerlukan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kediri"
-date: "2024-07-24"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kediri. Sampai disini info yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Kediri. Sekiranya diantara anda ada yang sed..."
+title: Jasa Instalasi Listrik di Kediri
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kediri. Sampai disini info yang dapat kami sampaikan
+  perihal Jasa Instalasi Listrik di Kediri. Sekiranya diantara anda ada yang
+  sed...
 ---
 
 **Jasa Instalasi Listrik di Kediri** – Listrik menjadi satu satunya keperluan seluruh orang dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap masyarakat pastinya akan susah untuk menjalankan kegiatan sehari-harinya yang berkaitan dengan listirik. Sebagian kegiatan yang berhubungan dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dan lainnya. Bahkan ada juga projek yang memerlukan listrik.

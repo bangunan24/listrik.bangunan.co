@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Sumedang"
-date: "2024-07-23"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Sumedang. Demikinlah info yang mampu kami uraikan tentang Jasa Instalasi Listrik di Sumedang. Jikalau diantara anda ada yang sedang..."
+title: Jasa Instalasi Listrik di Sumedang
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Sumedang. Demikinlah info yang mampu kami uraikan
+  tentang Jasa Instalasi Listrik di Sumedang. Jikalau diantara anda ada yang
+  sedang...
 ---
 
 **Jasa Instalasi Listrik di Sumedang** – Listrik merupakan satu satunya sumber aliran energi listrik yang paling utama untuk kehidupan manusia. Tiap rumah membutuhkan listrik sbg sumber aliran arus listrik yg amat penting, beberapa diantaranya seperti penggunaan lampu, televise, mesin cuci, dan kelengkapan yang lain yg menerapkan listrik.

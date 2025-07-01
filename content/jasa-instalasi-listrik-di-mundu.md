@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Mundu"
-date: "2024-07-06"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Mundu. Sampai disini pemaparan yang bisa kami sampaikan tentang Jasa Instalasi Listrik di Mundu. Apabila diantara anda ada yang sed..."
+title: Jasa Instalasi Listrik di Mundu
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Mundu. Sampai disini pemaparan yang bisa kami
+  sampaikan tentang Jasa Instalasi Listrik di Mundu. Apabila diantara anda ada
+  yang sed...
 ---
 
 **Jasa Instalasi Listrik di Mundu** – Listrik adalah beberapa sumber aliran arus listrik yang paling urgent untuk kehidupan manusia. Tiap rumah membutuhkan listrik sbg sumber aliran daya listrik yang teramat penting, beberapa diantaranya seperti pemakaian lampu, televise, mesin cuci, dan peralatan lainnya yang memakai listrik.

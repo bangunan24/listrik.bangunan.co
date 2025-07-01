@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Medan Satria Bekasi"
-date: "2024-07-13"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Medan Satria Bekasi. Seperti itulah informasi yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Medan Satria Bekasi. Bila..."
+title: Jasa Instalasi Listrik di Medan Satria Bekasi
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Medan Satria Bekasi. Seperti itulah informasi yang
+  dapat kami sampaikan perihal Jasa Instalasi Listrik di Medan Satria Bekasi.
+  Bila...
 ---
 
 **Jasa Instalasi Listrik di Medan Satria Bekasi** – Listrik adalah bagian sumber aliran daya listrik yg paling penting untuk kehidupan manusia. Masing-masing tempat tinggal membutuhkan listrik sbg sumber aliran energi listrik yg teramat urgent, sebagian diantaranya semisal penerapan lampu, televise, mesin cuci, dan perlengkapan lainnya yg menerapkan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Melawai Jakarta"
-date: "2024-07-07"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Melawai Jakarta. Sampai disini info yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Melawai Jakarta. Sekiranya diantara..."
+title: Jasa Instalasi Listrik di Melawai Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Melawai Jakarta. Sampai disini info yang bisa kami
+  sampaikan perihal Jasa Instalasi Listrik di Melawai Jakarta. Sekiranya
+  diantara...
 ---
 
 **Jasa Instalasi Listrik di Melawai Jakarta** – Listrik yaitu beberapa sumber aliran energi listrik yg paling utama untuk kehidupan manusia. Tiap hunian membutuhkan listrik sebagai sumber aliran arus listrik yang teramat utama, beberapa diantaranya semisal penerapan lampu, televise, mesin cuci, dan kelengkapan lainnya yg memakai listrik.

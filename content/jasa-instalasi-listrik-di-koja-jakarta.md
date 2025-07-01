@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Koja Jakarta"
-date: "2024-07-02"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Koja Jakarta. Demikinlah pemaparan yang mampu kami sampaikan tentang Jasa Instalasi Listrik di Koja Jakarta. Apabila diantara anda..."
+title: Jasa Instalasi Listrik di Koja Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Koja Jakarta. Demikinlah pemaparan yang mampu kami
+  sampaikan tentang Jasa Instalasi Listrik di Koja Jakarta. Apabila diantara
+  anda...
 ---
 
 **Jasa Instalasi Listrik di Koja Jakarta** – Listrik akan menjadi beberapa kebutuhan seluruh manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, seluruh masyarakat pastinya akan susah untuk melaksanakan kegiatan sehari-harinya yg berkaitan dg listirik. Beberapa aktivitas yang berkaitan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Bahkan ada juga projek yang membutuhkan listrik.

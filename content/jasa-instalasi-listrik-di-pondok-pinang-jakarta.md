@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Pondok Pinang Jakarta"
-date: "2024-07-04"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Pondok Pinang Jakarta. Demikinlah info yang mampu kami sampaikan tentang Jasa Instalasi Listrik di Pondok Pinang Jakarta. Kalau dia..."
+title: Jasa Instalasi Listrik di Pondok Pinang Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Pondok Pinang Jakarta. Demikinlah info yang mampu
+  kami sampaikan tentang Jasa Instalasi Listrik di Pondok Pinang Jakarta. Kalau
+  dia...
 ---
 
 **Jasa Instalasi Listrik di Pondok Pinang Jakarta** – Listrik yakni bagian sumber aliran arus listrik yg paling penting untuk kehidupan manusia. Setiap rumah memerlukan listrik sbg sumber aliran daya listrik yg cukup sangat dibutuhkan, beberapa diantaranya semisal penerapan lampu, televise, mesin cuci, dan kelengkapan yang lain yg menerapkan listrik.

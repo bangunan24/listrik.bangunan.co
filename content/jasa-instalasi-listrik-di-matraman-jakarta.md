@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Matraman Jakarta"
-date: "2024-07-29"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Matraman Jakarta. Sampai disini informasi yang mampu kami sampaikan tentang Jasa Instalasi Listrik di Matraman Jakarta. Jikalau dia..."
+title: Jasa Instalasi Listrik di Matraman Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Matraman Jakarta. Sampai disini informasi yang mampu
+  kami sampaikan tentang Jasa Instalasi Listrik di Matraman Jakarta. Jikalau
+  dia...
 ---
 
 **Jasa Instalasi Listrik di Matraman Jakarta** – Listrik ialah beberapa sumber aliran arus listrik yg paling paling diharapkan untuk kehidupan manusia. Tiap rumah membutuhkan listrik sebagai sumber aliran tenaga listrik yang cukup penting, sebagian diantaranya semisal pengaplikasian lampu, televise, mesin cuci, dan perlengkapan lainnya yg memakai listrik.

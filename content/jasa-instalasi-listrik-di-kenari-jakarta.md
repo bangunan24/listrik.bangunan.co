@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kenari Jakarta"
-date: "2024-07-27"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kenari Jakarta. Sampai disini penjelasan yang dapat kami uraikan tentang Jasa Instalasi Listrik di Kenari Jakarta. Jika diantara an..."
+title: Jasa Instalasi Listrik di Kenari Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kenari Jakarta. Sampai disini penjelasan yang dapat
+  kami uraikan tentang Jasa Instalasi Listrik di Kenari Jakarta. Jika diantara
+  an...
 ---
 
 **Jasa Instalasi Listrik di Kenari Jakarta** – Listrik akan menjadi satu satunya kebutuhan tiap-tiap masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap manusia tentunya akan susah untuk melaksanakan aktivitas sehari-harinya yang terkait dengan listirik. Sebagian kesibukan yg berhubungan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dan lainnya. Malahan ada juga pekerjaan yang memerlukan listrik.

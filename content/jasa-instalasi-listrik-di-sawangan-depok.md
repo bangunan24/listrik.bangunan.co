@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Sawangan Depok"
-date: "2024-07-08"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Sawangan Depok. Seperti itulah info yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Sawangan Depok. Sekiranya diantara a..."
+title: Jasa Instalasi Listrik di Sawangan Depok
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Sawangan Depok. Seperti itulah info yang bisa kami
+  sampaikan perihal Jasa Instalasi Listrik di Sawangan Depok. Sekiranya diantara
+  a...
 ---
 
 **Jasa Instalasi Listrik di Sawangan Depok** – Listrik yaitu beberapa sumber aliran energi listrik yg paling penting untuk kehidupan manusia. Tiap tempat tinggal memerlukan listrik sbg sumber aliran tenaga listrik yang teramat sangat diperlukan, sebagian diantaranya seperti pemakaian lampu, televise, mesin cuci, dan kelengkapan yang lain yg menggunakan listrik.

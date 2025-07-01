@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Sukamulya Tangerang"
-date: "2024-07-25"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Sukamulya Tangerang. Sampai disini info yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Sukamulya Tangerang. Apabila di..."
+title: Jasa Instalasi Listrik di Sukamulya Tangerang
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Sukamulya Tangerang. Sampai disini info yang dapat
+  kami sampaikan tentang Jasa Instalasi Listrik di Sukamulya Tangerang. Apabila
+  di...
 ---
 
 **Jasa Instalasi Listrik di Sukamulya Tangerang** – Listrik adalah beberapa sumber aliran energi listrik yg paling utama untuk kehidupan manusia. Tiap-tiap tempat tinggal memerlukan listrik sebagai sumber aliran daya listrik yg cukup penting, beberapa diantaranya seperti pemakaian lampu, televise, mesin cuci, dan kelengkapan lainnya yang menerapkan listrik.

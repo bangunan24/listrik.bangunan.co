@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kotabaru Karawang"
-date: "2024-07-03"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kotabaru Karawang. Seperti itulah info yang dapat kami uraikan perihal Jasa Instalasi Listrik di Kotabaru Karawang. Sekiranya diant..."
+title: Jasa Instalasi Listrik di Kotabaru Karawang
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kotabaru Karawang. Seperti itulah info yang dapat
+  kami uraikan perihal Jasa Instalasi Listrik di Kotabaru Karawang. Sekiranya
+  diant...
 ---
 
 **Jasa Instalasi Listrik di Kotabaru Karawang** – Listrik menjadi sebuah kebutuhan setiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap manusia pastinya akan sulit untuk melaksanakan aktivitas sehari-harinya yang berhubungan dg listirik. Sebagian kesibukan yg berhubungan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Malahan ada juga projek yang memerlukan listrik.

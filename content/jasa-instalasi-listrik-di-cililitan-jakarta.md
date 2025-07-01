@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cililitan Jakarta"
-date: "2024-07-12"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cililitan Jakarta. Sampai disini informasi yang bisa kami uraikan perihal Jasa Instalasi Listrik di Cililitan Jakarta. Apabila dian..."
+title: Jasa Instalasi Listrik di Cililitan Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cililitan Jakarta. Sampai disini informasi yang bisa
+  kami uraikan perihal Jasa Instalasi Listrik di Cililitan Jakarta. Apabila
+  dian...
 ---
 
 **Jasa Instalasi Listrik di Cililitan Jakarta** – Listrik menjadi bagian kebutuhan semua orang dalam kehidupan sehari-hari. Tanpa adanya listrik, seluruh manusia pastinya akan susah untuk melakukan aktivitas sehari-harinya yg berkaitan dengan listirik. Beberapa aktivitas yg terkait dg listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Malah ada juga projek yang memerlukan listrik.

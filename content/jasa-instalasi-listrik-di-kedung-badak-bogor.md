@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kedung Badak Bogor"
-date: "2024-07-16"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kedung Badak Bogor. Itulah informasi yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Kedung Badak Bogor. Sekiranya diant..."
+title: Jasa Instalasi Listrik di Kedung Badak Bogor
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kedung Badak Bogor. Itulah informasi yang bisa kami
+  sampaikan perihal Jasa Instalasi Listrik di Kedung Badak Bogor. Sekiranya
+  diant...
 ---
 
 **Jasa Instalasi Listrik di Kedung Badak Bogor** – Listrik menjadi bagian dari kebutuhan setiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, seluruh orang tentunya akan sulit untuk melakukan kegiatan sehari-harinya yg berhubungan dg listirik. Beberapa kegiatan yg berkaitan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Malah ada juga proyek yang membutuhkan listrik.

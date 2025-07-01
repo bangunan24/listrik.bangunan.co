@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Halim Jakarta"
-date: "2024-07-16"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Halim Jakarta. Itulah info yang mampu kami sampaikan tentang Jasa Instalasi Listrik di Halim Jakarta. Seandainya diantara anda ada..."
+title: Jasa Instalasi Listrik di Halim Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Halim Jakarta. Itulah info yang mampu kami sampaikan
+  tentang Jasa Instalasi Listrik di Halim Jakarta. Seandainya diantara anda
+  ada...
 ---
 
 **Jasa Instalasi Listrik di Halim Jakarta** – Listrik menjadi salah satu keperluan setiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap masyarakat pastinya akan susah untuk mengerjakan kegiatan sehari-harinya yg berhubungan dg listirik. Sebagian kesibukan yang berkaitan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dan lainnya. Malahan ada juga projek yg membutuhkan listrik.

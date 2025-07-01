@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Tanjung Duren Jakarta"
-date: "2024-07-23"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Tanjung Duren Jakarta. Sampai disini info yang bisa kami sampaikan tentang Jasa Instalasi Listrik di Tanjung Duren Jakarta. Seandai..."
+title: Jasa Instalasi Listrik di Tanjung Duren Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Tanjung Duren Jakarta. Sampai disini info yang bisa
+  kami sampaikan tentang Jasa Instalasi Listrik di Tanjung Duren Jakarta.
+  Seandai...
 ---
 
 **Jasa Instalasi Listrik di Tanjung Duren Jakarta** – Listrik merupakan salah satu sumber aliran tenaga listrik yg paling utama untuk kehidupan manusia. Tiap-tiap tempat tinggal memerlukan listrik sbg sumber aliran arus listrik yang teramat sangat diharapkan, sebagian diantaranya semisal pengaplikasian lampu, televise, mesin cuci, dan peralatan yang lain yg menerapkan listrik.

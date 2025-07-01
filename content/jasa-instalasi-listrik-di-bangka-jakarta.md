@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Bangka Jakarta"
-date: "2024-07-15"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Bangka Jakarta. Itulah informasi yang dapat kami uraikan perihal Jasa Instalasi Listrik di Bangka Jakarta. Sekiranya diantara anda..."
+title: Jasa Instalasi Listrik di Bangka Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Bangka Jakarta. Itulah informasi yang dapat kami
+  uraikan perihal Jasa Instalasi Listrik di Bangka Jakarta. Sekiranya diantara
+  anda...
 ---
 
 **Jasa Instalasi Listrik di Bangka Jakarta** – Listrik akan menjadi bagian dari kebutuhan semua manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, semua masyarakat tentunya akan sulit untuk melaksanakan aktivitas sehari-harinya yang terkait dengan listirik. Beberapa aktivitas yang terkait dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Bahkan ada juga projek yg memerlukan listrik.

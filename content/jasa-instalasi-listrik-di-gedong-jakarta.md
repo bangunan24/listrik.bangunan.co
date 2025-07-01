@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Gedong Jakarta"
-date: "2024-07-13"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Gedong Jakarta. Seperti itulah informasi yang dapat kami uraikan perihal Jasa Instalasi Listrik di Gedong Jakarta. Kalau diantara a..."
+title: Jasa Instalasi Listrik di Gedong Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Gedong Jakarta. Seperti itulah informasi yang dapat
+  kami uraikan perihal Jasa Instalasi Listrik di Gedong Jakarta. Kalau diantara
+  a...
 ---
 
 **Jasa Instalasi Listrik di Gedong Jakarta** – Listrik menjadi sebuah kebutuhan setiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap masyarakat tentunya akan susah untuk melakukan kesibukan sehari-harinya yang berkaitan dg listirik. Beberapa kegiatan yg berkaitan dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Malahan ada juga proyek yang memerlukan listrik.

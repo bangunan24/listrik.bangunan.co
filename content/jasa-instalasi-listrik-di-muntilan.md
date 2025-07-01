@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Muntilan"
-date: "2024-07-16"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Muntilan. Sampai disini informasi yang bisa kami sampaikan tentang Jasa Instalasi Listrik di Muntilan. Sekiranya diantara anda ada..."
+title: Jasa Instalasi Listrik di Muntilan
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Muntilan. Sampai disini informasi yang bisa kami
+  sampaikan tentang Jasa Instalasi Listrik di Muntilan. Sekiranya diantara anda
+  ada...
 ---
 
 **Jasa Instalasi Listrik di Muntilan** – Listrik adalah beberapa sumber aliran energi listrik yg paling utama untuk kehidupan manusia. Masing-masing hunian memerlukan listrik sbg sumber aliran arus listrik yg cukup utama, beberapa diantaranya semisal penerapan lampu, televise, mesin cuci, dan peralatan lainnya yang menggunakan listrik.

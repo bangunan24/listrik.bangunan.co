@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Petukangan Jakarta"
-date: "2024-07-22"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Petukangan Jakarta. Sampai disini info yang mampu kami uraikan tentang Jasa Instalasi Listrik di Petukangan Jakarta. Kalau diantara..."
+title: Jasa Instalasi Listrik di Petukangan Jakarta
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Petukangan Jakarta. Sampai disini info yang mampu
+  kami uraikan tentang Jasa Instalasi Listrik di Petukangan Jakarta. Kalau
+  diantara...
 ---
 
 **Jasa Instalasi Listrik di Petukangan Jakarta** – Listrik ialah bagian sumber aliran arus listrik yang paling utama untuk kehidupan manusia. Setiap rumah memerlukan listrik sebagai sumber aliran arus listrik yg cukup utama, beberapa diantaranya seperti pengaplikasian lampu, televise, mesin cuci, dan kelengkapan lainnya yg menggunakan listrik.
