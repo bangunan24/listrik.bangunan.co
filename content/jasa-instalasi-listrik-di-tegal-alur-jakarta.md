@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Tegal Alur Jakarta"
-date: "2024-08-26"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Tegal Alur Jakarta. Sampai disini pemaparan yang dapat kami uraikan tentang Jasa Instalasi Listrik di Tegal Alur Jakarta. Apabila d..."
+title: Jasa Instalasi Listrik di Tegal Alur Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Tegal Alur Jakarta. Sampai disini pemaparan yang
+  dapat kami uraikan tentang Jasa Instalasi Listrik di Tegal Alur Jakarta.
+  Apabila d...
 ---
 
 **Jasa Instalasi Listrik di Tegal Alur Jakarta** – Listrik ialah beberapa sumber aliran arus listrik yg paling urgent untuk kehidupan manusia. Tiap rumah memerlukan listrik sebagai sumber aliran arus listrik yg teramat utama, sebagian diantaranya seperti penerapan lampu, televise, mesin cuci, dan kelengkapan lainnya yg memakai listrik.

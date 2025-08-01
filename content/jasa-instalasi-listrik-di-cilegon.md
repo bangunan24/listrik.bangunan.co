@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cilegon"
-date: "2024-08-12"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cilegon. Demikinlah penjelasan yang mampu kami sampaikan tentang Jasa Instalasi Listrik di Cilegon. Seandainya diantara anda ada ya..."
+title: Jasa Instalasi Listrik di Cilegon
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cilegon. Demikinlah penjelasan yang mampu kami
+  sampaikan tentang Jasa Instalasi Listrik di Cilegon. Seandainya diantara anda
+  ada ya...
 ---
 
 **Jasa Instalasi Listrik di Cilegon** – Listrik menjadi bagian kebutuhan semua manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap orang tentunya akan susah untuk melakukan aktivitas sehari-harinya yg berhubungan dengan listirik. Sebagian kegiatan yg berhubungan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Malahan ada juga proyek yg memerlukan listrik.

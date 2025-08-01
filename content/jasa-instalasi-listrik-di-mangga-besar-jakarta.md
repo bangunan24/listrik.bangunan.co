@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Mangga Besar Jakarta"
-date: "2024-08-24"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Mangga Besar Jakarta. Itulah informasi yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Mangga Besar Jakarta. Jika diant..."
+title: Jasa Instalasi Listrik di Mangga Besar Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Mangga Besar Jakarta. Itulah informasi yang dapat
+  kami sampaikan tentang Jasa Instalasi Listrik di Mangga Besar Jakarta. Jika
+  diant...
 ---
 
 **Jasa Instalasi Listrik di Mangga Besar Jakarta** – Listrik adalah beberapa sumber aliran energi listrik yg paling urgent untuk kehidupan manusia. Tiap hunian membutuhkan listrik sebagai sumber aliran tenaga listrik yg amat penting, beberapa diantaranya seperti penerapan lampu, televise, mesin cuci, dan peralatan lainnya yg memakai listrik.

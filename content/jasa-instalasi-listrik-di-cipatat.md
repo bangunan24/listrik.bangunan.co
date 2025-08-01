@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cipatat"
-date: "2024-08-23"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cipatat. Sampai disini informasi yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Cipatat. Jikalau diantara anda ada yan..."
+title: Jasa Instalasi Listrik di Cipatat
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cipatat. Sampai disini informasi yang dapat kami
+  sampaikan perihal Jasa Instalasi Listrik di Cipatat. Jikalau diantara anda ada
+  yan...
 ---
 
 **Jasa Instalasi Listrik di Cipatat** – Listrik akan menjadi salah satu keperluan semua masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap orang pastinya akan sulit untuk menjalankan kesibukan sehari-harinya yang berhubungan dengan listirik. Sebagian kesibukan yg terkait dg listrik seperti menonton tv, menyalakan kulkas, lampu, dan lainnya. Bahkan ada juga pekerjaan yg memerlukan listrik.

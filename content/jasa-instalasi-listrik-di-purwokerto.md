@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Purwokerto"
-date: "2024-08-24"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Purwokerto. Demikinlah pemaparan yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Purwokerto. Jikalau diantara anda ada..."
+title: Jasa Instalasi Listrik di Purwokerto
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Purwokerto. Demikinlah pemaparan yang dapat kami
+  sampaikan perihal Jasa Instalasi Listrik di Purwokerto. Jikalau diantara anda
+  ada...
 ---
 
 **Jasa Instalasi Listrik di Purwokerto** – Listrik adalah bagian dari sumber aliran tenaga listrik yg paling sangat diperlukan untuk kehidupan manusia. Tiap tempat tinggal membutuhkan listrik sebagai sumber aliran daya listrik yg cukup sangat dibutuhkan, beberapa diantaranya seperti penerapan lampu, televise, mesin cuci, dan peralatan lainnya yang mengaplikasikan listrik.

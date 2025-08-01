@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Karet Jakarta"
-date: "2024-08-20"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Karet Jakarta. Seperti itulah informasi yang dapat kami uraikan perihal Jasa Instalasi Listrik di Karet Jakarta. Sekiranya diantara..."
+title: Jasa Instalasi Listrik di Karet Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Karet Jakarta. Seperti itulah informasi yang dapat
+  kami uraikan perihal Jasa Instalasi Listrik di Karet Jakarta. Sekiranya
+  diantara...
 ---
 
 **Jasa Instalasi Listrik di Karet Jakarta** – Listrik bakal jadi salah satu keperluan tiap-tiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap manusia pastinya akan susah untuk melakukan kegiatan sehari-harinya yg berhubungan dg listirik. Sebagian aktivitas yg berhubungan dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Malah ada juga proyek yang memerlukan listrik.

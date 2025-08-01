@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Plered Purwakarta"
-date: "2024-08-01"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Plered Purwakarta. Seperti itulah info yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Plered Purwakarta. Jika diantara..."
+title: Jasa Instalasi Listrik di Plered Purwakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Plered Purwakarta. Seperti itulah info yang bisa
+  kami sampaikan perihal Jasa Instalasi Listrik di Plered Purwakarta. Jika
+  diantara...
 ---
 
 **Jasa Instalasi Listrik di Plered Purwakarta** – Listrik merupakan satu satunya sumber aliran arus listrik yang paling paling diperlukan untuk kehidupan manusia. Tiap-tiap hunian memerlukan listrik sbg sumber aliran tenaga listrik yg cukup utama, beberapa diantaranya semisal pemakaian lampu, televise, mesin cuci, dan perlengkapan yang lain yg mengaplikasikan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kresek Tangerang"
-date: "2024-08-24"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kresek Tangerang. Sampai disini informasi yang dapat kami uraikan perihal Jasa Instalasi Listrik di Kresek Tangerang. Seandainya di..."
+title: Jasa Instalasi Listrik di Kresek Tangerang
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kresek Tangerang. Sampai disini informasi yang dapat
+  kami uraikan perihal Jasa Instalasi Listrik di Kresek Tangerang. Seandainya
+  di...
 ---
 
 **Jasa Instalasi Listrik di Kresek Tangerang** – Listrik akan menjadi satu satunya keperluan semua masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap orang tentunya akan sulit untuk melakukan aktivitas sehari-harinya yang berkaitan dengan listirik. Sebagian aktivitas yg berkaitan dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dll. Malahan ada juga proyek yg membutuhkan listrik.

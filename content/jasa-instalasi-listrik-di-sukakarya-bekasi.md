@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Sukakarya Bekasi"
-date: "2024-08-05"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Sukakarya Bekasi. Itulah info yang mampu kami uraikan perihal Jasa Instalasi Listrik di Sukakarya Bekasi. Kalau diantara anda ada y..."
+title: Jasa Instalasi Listrik di Sukakarya Bekasi
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Sukakarya Bekasi. Itulah info yang mampu kami
+  uraikan perihal Jasa Instalasi Listrik di Sukakarya Bekasi. Kalau diantara
+  anda ada y...
 ---
 
 **Jasa Instalasi Listrik di Sukakarya Bekasi** – Listrik ialah bagian sumber aliran daya listrik yg paling urgent untuk kehidupan manusia. Setiap rumah membutuhkan listrik sbg sumber aliran arus listrik yg amat urgent, sebagian diantaranya semisal penggunaan lampu, televise, mesin cuci, dan peralatan yang lain yg memakai listrik.

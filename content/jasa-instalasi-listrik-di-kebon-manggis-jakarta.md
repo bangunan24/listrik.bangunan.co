@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kebon Manggis Jakarta"
-date: "2024-08-02"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kebon Manggis Jakarta. Seperti itulah pemaparan yang mampu kami uraikan perihal Jasa Instalasi Listrik di Kebon Manggis Jakarta. Ji..."
+title: Jasa Instalasi Listrik di Kebon Manggis Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kebon Manggis Jakarta. Seperti itulah pemaparan yang
+  mampu kami uraikan perihal Jasa Instalasi Listrik di Kebon Manggis Jakarta.
+  Ji...
 ---
 
 **Jasa Instalasi Listrik di Kebon Manggis Jakarta** – Listrik menjadi sebuah kebutuhan semua masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap manusia tentunya akan sulit untuk menjalankan kegiatan sehari-harinya yg berkaitan dengan listirik. Beberapa kesibukan yang berkaitan dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dll. Malah ada juga projek yang membutuhkan listrik.

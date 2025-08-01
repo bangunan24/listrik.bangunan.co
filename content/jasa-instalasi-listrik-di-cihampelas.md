@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cihampelas"
-date: "2024-08-13"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cihampelas. Sampai disini informasi yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Cihampelas. Sekiranya diantara anda..."
+title: Jasa Instalasi Listrik di Cihampelas
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cihampelas. Sampai disini informasi yang dapat kami
+  sampaikan tentang Jasa Instalasi Listrik di Cihampelas. Sekiranya diantara
+  anda...
 ---
 
 **Jasa Instalasi Listrik di Cihampelas** – Listrik bakal jadi sebuah kebutuhan tiap-tiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, seluruh manusia tentunya akan susah untuk melaksanakan aktivitas sehari-harinya yang berhubungan dg listirik. Beberapa aktivitas yg terkait dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Malahan ada juga projek yang membutuhkan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Mampang Jakarta"
-date: "2024-08-29"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Mampang Jakarta. Itulah informasi yang bisa kami uraikan tentang Jasa Instalasi Listrik di Mampang Jakarta. Sekiranya diantara anda..."
+title: Jasa Instalasi Listrik di Mampang Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Mampang Jakarta. Itulah informasi yang bisa kami
+  uraikan tentang Jasa Instalasi Listrik di Mampang Jakarta. Sekiranya diantara
+  anda...
 ---
 
 **Jasa Instalasi Listrik di Mampang Jakarta** – Listrik adalah beberapa sumber aliran arus listrik yang paling sangat dibutuhkan untuk kehidupan manusia. Tiap rumah memerlukan listrik sebagai sumber aliran energi listrik yg amat sangat diperlukan, sebagian diantaranya semisal pemakaian lampu, televise, mesin cuci, dan kelengkapan yang lain yg menerapkan listrik.

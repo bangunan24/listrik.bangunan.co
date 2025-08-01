@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Duren Sawit Jakarta"
-date: "2024-08-21"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Duren Sawit Jakarta. Sampai disini info yang bisa kami sampaikan tentang Jasa Instalasi Listrik di Duren Sawit Jakarta. Jika dianta..."
+title: Jasa Instalasi Listrik di Duren Sawit Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Duren Sawit Jakarta. Sampai disini info yang bisa
+  kami sampaikan tentang Jasa Instalasi Listrik di Duren Sawit Jakarta. Jika
+  dianta...
 ---
 
 **Jasa Instalasi Listrik di Duren Sawit Jakarta** – Listrik menjadi beberapa kebutuhan tiap-tiap masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap orang tentunya akan susah untuk menjalankan kesibukan sehari-harinya yang terkait dg listirik. Beberapa aktivitas yang terkait dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dan lainnya. Bahkan ada juga pekerjaan yang membutuhkan listrik.

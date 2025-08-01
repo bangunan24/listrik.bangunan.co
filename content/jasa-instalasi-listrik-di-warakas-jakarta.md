@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Warakas Jakarta"
-date: "2024-08-16"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Warakas Jakarta. Itulah penjelasan yang mampu kami uraikan tentang Jasa Instalasi Listrik di Warakas Jakarta. Apabila diantara anda..."
+title: Jasa Instalasi Listrik di Warakas Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Warakas Jakarta. Itulah penjelasan yang mampu kami
+  uraikan tentang Jasa Instalasi Listrik di Warakas Jakarta. Apabila diantara
+  anda...
 ---
 
 **Jasa Instalasi Listrik di Warakas Jakarta** – Listrik ialah beberapa sumber aliran arus listrik yg paling paling diinginkan untuk kehidupan manusia. Tiap-tiap rumah memerlukan listrik sbg sumber aliran arus listrik yang teramat penting, beberapa diantaranya semisal penerapan lampu, televise, mesin cuci, dan peralatan yang lain yg mengaplikasikan listrik.

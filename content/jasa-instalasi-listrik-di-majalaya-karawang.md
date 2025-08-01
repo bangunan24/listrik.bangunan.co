@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Majalaya Karawang"
-date: "2024-08-13"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Majalaya Karawang. Seperti itulah pemaparan yang mampu kami uraikan perihal Jasa Instalasi Listrik di Majalaya Karawang. Jikalau di..."
+title: Jasa Instalasi Listrik di Majalaya Karawang
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Majalaya Karawang. Seperti itulah pemaparan yang
+  mampu kami uraikan perihal Jasa Instalasi Listrik di Majalaya Karawang.
+  Jikalau di...
 ---
 
 **Jasa Instalasi Listrik di Majalaya Karawang** – Listrik adalah beberapa sumber aliran energi listrik yg paling urgent untuk kehidupan manusia. Tiap-tiap rumah membutuhkan listrik sebagai sumber aliran arus listrik yg amat sangat diinginkan, beberapa diantaranya seperti pengaplikasian lampu, televise, mesin cuci, dan kelengkapan yang lain yg memakai listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kebumen"
-date: "2024-08-30"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kebumen. Itulah info yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Kebumen. Sekiranya diantara anda ada yang sedang m..."
+title: Jasa Instalasi Listrik di Kebumen
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kebumen. Itulah info yang dapat kami sampaikan
+  tentang Jasa Instalasi Listrik di Kebumen. Sekiranya diantara anda ada yang
+  sedang m...
 ---
 
 **Jasa Instalasi Listrik di Kebumen** – Listrik bakal jadi satu satunya kebutuhan seluruh manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap masyarakat tentunya akan susah untuk menjalankan kesibukan sehari-harinya yang terkait dengan listirik. Sebagian aktivitas yg terkait dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dan lain sebagainya. Malah ada juga pekerjaan yg membutuhkan listrik.

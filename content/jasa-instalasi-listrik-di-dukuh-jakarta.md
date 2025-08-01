@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Dukuh Jakarta"
-date: "2024-08-11"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Dukuh Jakarta. Seperti itulah info yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Dukuh Jakarta. Bila diantara anda ada..."
+title: Jasa Instalasi Listrik di Dukuh Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Dukuh Jakarta. Seperti itulah info yang bisa kami
+  sampaikan perihal Jasa Instalasi Listrik di Dukuh Jakarta. Bila diantara anda
+  ada...
 ---
 
 **Jasa Instalasi Listrik di Dukuh Jakarta** – Listrik menjadi satu satunya kebutuhan semua manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, seluruh manusia pastinya akan sulit untuk mengerjakan aktivitas sehari-harinya yg terkait dg listirik. Sebagian kesibukan yg berkaitan dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Bahkan ada juga pekerjaan yang memerlukan listrik.

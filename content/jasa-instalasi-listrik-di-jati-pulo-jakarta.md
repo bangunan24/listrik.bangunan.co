@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Jati Pulo Jakarta"
-date: "2024-08-05"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Jati Pulo Jakarta. Demikinlah pemaparan yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Jati Pulo Jakarta. Apabila dian..."
+title: Jasa Instalasi Listrik di Jati Pulo Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Jati Pulo Jakarta. Demikinlah pemaparan yang dapat
+  kami sampaikan tentang Jasa Instalasi Listrik di Jati Pulo Jakarta. Apabila
+  dian...
 ---
 
 **Jasa Instalasi Listrik di Jati Pulo Jakarta** – Listrik bakal jadi sebuah keperluan seluruh orang dalam kehidupan sehari-hari. Tanpa adanya listrik, seluruh masyarakat tentunya akan susah untuk melakukan aktivitas sehari-harinya yg berkaitan dengan listirik. Beberapa kesibukan yang berkaitan dg listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Bahkan ada juga proyek yg membutuhkan listrik.

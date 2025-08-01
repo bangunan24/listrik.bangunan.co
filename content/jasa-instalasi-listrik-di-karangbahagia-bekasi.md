@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Karangbahagia Bekasi"
-date: "2024-08-12"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Karangbahagia Bekasi. Itulah penjelasan yang mampu kami uraikan tentang Jasa Instalasi Listrik di Karangbahagia Bekasi. Jikalau dia..."
+title: Jasa Instalasi Listrik di Karangbahagia Bekasi
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Karangbahagia Bekasi. Itulah penjelasan yang mampu
+  kami uraikan tentang Jasa Instalasi Listrik di Karangbahagia Bekasi. Jikalau
+  dia...
 ---
 
 **Jasa Instalasi Listrik di Karangbahagia Bekasi** – Listrik bakal jadi sebuah keperluan semua manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, semua masyarakat pastinya akan susah untuk mengerjakan kegiatan sehari-harinya yang berkaitan dengan listirik. Beberapa kesibukan yg berkaitan dg listrik seperti menonton tv, menyalakan kulkas, lampu, dan lainnya. Malahan ada juga projek yang membutuhkan listrik.

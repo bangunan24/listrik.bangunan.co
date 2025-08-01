@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Purbalingga"
-date: "2024-08-07"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Purbalingga. Seperti itulah info yang mampu kami sampaikan tentang Jasa Instalasi Listrik di Purbalingga. Jika diantara anda ada ya..."
+title: Jasa Instalasi Listrik di Purbalingga
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Purbalingga. Seperti itulah info yang mampu kami
+  sampaikan tentang Jasa Instalasi Listrik di Purbalingga. Jika diantara anda
+  ada ya...
 ---
 
 **Jasa Instalasi Listrik di Purbalingga** – Listrik merupakan bagian sumber aliran energi listrik yang paling paling diharapkan untuk kehidupan manusia. Tiap-tiap tempat tinggal membutuhkan listrik sebagai sumber aliran energi listrik yg cukup utama, beberapa diantaranya seperti penerapan lampu, televise, mesin cuci, dan kelengkapan lainnya yg mengaplikasikan listrik.

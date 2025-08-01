@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Glodok Jakarta"
-date: "2024-08-01"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Glodok Jakarta. Demikinlah penjelasan yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Glodok Jakarta. Bila diantara and..."
+title: Jasa Instalasi Listrik di Glodok Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Glodok Jakarta. Demikinlah penjelasan yang dapat
+  kami sampaikan tentang Jasa Instalasi Listrik di Glodok Jakarta. Bila diantara
+  and...
 ---
 
 **Jasa Instalasi Listrik di Glodok Jakarta** – Listrik bakal jadi bagian keperluan seluruh manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap manusia pastinya akan sulit untuk mengerjakan kesibukan sehari-harinya yang berkaitan dengan listirik. Beberapa kegiatan yang berkaitan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dan lainnya. Malah ada juga projek yg membutuhkan listrik.

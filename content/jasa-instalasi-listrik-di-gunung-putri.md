@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Gunung Putri"
-date: "2024-08-07"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Gunung Putri. Sampai disini penjelasan yang bisa kami sampaikan perihal Jasa Instalasi Listrik di Gunung Putri. Sekiranya diantara..."
+title: Jasa Instalasi Listrik di Gunung Putri
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Gunung Putri. Sampai disini penjelasan yang bisa
+  kami sampaikan perihal Jasa Instalasi Listrik di Gunung Putri. Sekiranya
+  diantara...
 ---
 
 **Jasa Instalasi Listrik di Gunung Putri** – Listrik bakal jadi beberapa keperluan setiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, semua orang pastinya akan susah untuk menjalankan aktivitas sehari-harinya yang berkaitan dg listirik. Beberapa kegiatan yang berkaitan dg listrik seperti menonton tv, menyalakan kulkas, lampu, dan lainnya. Bahkan ada juga projek yang membutuhkan listrik.

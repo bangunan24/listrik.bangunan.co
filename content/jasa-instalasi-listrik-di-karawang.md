@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Karawang"
-date: "2024-08-28"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Karawang. Seperti itulah info yang dapat kami uraikan perihal Jasa Instalasi Listrik di Karawang. Bila diantara anda ada yang sedan..."
+title: Jasa Instalasi Listrik di Karawang
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Karawang. Seperti itulah info yang dapat kami
+  uraikan perihal Jasa Instalasi Listrik di Karawang. Bila diantara anda ada
+  yang sedan...
 ---
 
 **Jasa Instalasi Listrik di Karawang** – Listrik menjadi bagian kebutuhan setiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap masyarakat pastinya akan sulit untuk menjalankan kegiatan sehari-harinya yg berhubungan dengan listirik. Sebagian kesibukan yg berhubungan dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dan lainnya. Malah ada juga proyek yang memerlukan listrik.

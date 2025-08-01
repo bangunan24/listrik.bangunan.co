@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Pekayon Jakarta"
-date: "2024-08-20"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Pekayon Jakarta. Sampai disini pemaparan yang mampu kami uraikan tentang Jasa Instalasi Listrik di Pekayon Jakarta. Jika diantara a..."
+title: Jasa Instalasi Listrik di Pekayon Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Pekayon Jakarta. Sampai disini pemaparan yang mampu
+  kami uraikan tentang Jasa Instalasi Listrik di Pekayon Jakarta. Jika diantara
+  a...
 ---
 
 **Jasa Instalasi Listrik di Pekayon Jakarta** – Listrik yaitu sebuah sumber aliran energi listrik yang paling penting untuk kehidupan manusia. Masing-masing tempat tinggal membutuhkan listrik sebagai sumber aliran tenaga listrik yang cukup penting, sebagian diantaranya semisal pemakaian lampu, televise, mesin cuci, dan peralatan yang lain yang menggunakan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cisalak Depok"
-date: "2024-08-03"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cisalak Depok. Sampai disini informasi yang dapat kami uraikan tentang Jasa Instalasi Listrik di Cisalak Depok. Apabila diantara an..."
+title: Jasa Instalasi Listrik di Cisalak Depok
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cisalak Depok. Sampai disini informasi yang dapat
+  kami uraikan tentang Jasa Instalasi Listrik di Cisalak Depok. Apabila diantara
+  an...
 ---
 
 **Jasa Instalasi Listrik di Cisalak Depok** – Listrik akan menjadi sebuah keperluan seluruh manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, seluruh orang tentunya akan susah untuk mengerjakan aktivitas sehari-harinya yang terkait dg listirik. Beberapa aktivitas yg berhubungan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dan lainnya. Malah ada juga proyek yg memerlukan listrik.

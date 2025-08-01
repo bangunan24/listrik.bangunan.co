@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Purwasari Karawang"
-date: "2024-08-11"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Purwasari Karawang. Sampai disini penjelasan yang mampu kami sampaikan perihal Jasa Instalasi Listrik di Purwasari Karawang. Bila d..."
+title: Jasa Instalasi Listrik di Purwasari Karawang
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Purwasari Karawang. Sampai disini penjelasan yang
+  mampu kami sampaikan perihal Jasa Instalasi Listrik di Purwasari Karawang.
+  Bila d...
 ---
 
 **Jasa Instalasi Listrik di Purwasari Karawang** – Listrik ialah bagian sumber aliran daya listrik yang paling penting untuk kehidupan manusia. Tiap-tiap rumah membutuhkan listrik sbg sumber aliran energi listrik yg amat penting, beberapa diantaranya seperti pemakaian lampu, televise, mesin cuci, dan perlengkapan lainnya yg mengaplikasikan listrik.

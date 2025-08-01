@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Tangerang"
-date: "2024-08-08"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Tangerang. Itulah informasi yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Tangerang. Apabila diantara anda ada yang s..."
+title: Jasa Instalasi Listrik di Tangerang
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Tangerang. Itulah informasi yang dapat kami
+  sampaikan tentang Jasa Instalasi Listrik di Tangerang. Apabila diantara anda
+  ada yang s...
 ---
 
 **Jasa Instalasi Listrik di Tangerang** – Listrik ialah bagian sumber aliran daya listrik yang paling sangat dibutuhkan untuk kehidupan manusia. Masing-masing rumah memerlukan listrik sbg sumber aliran daya listrik yg amat sangat diinginkan, beberapa diantaranya semisal pengaplikasian lampu, televise, mesin cuci, dan kelengkapan yang lain yang memakai listrik.
