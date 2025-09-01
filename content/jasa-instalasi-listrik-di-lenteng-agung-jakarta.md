@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Lenteng Agung Jakarta"
-date: "2024-09-06"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Lenteng Agung Jakarta. Sampai disini info yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Lenteng Agung Jakarta. Sekira..."
+title: Jasa Instalasi Listrik di Lenteng Agung Jakarta
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Lenteng Agung Jakarta. Sampai disini info yang dapat
+  kami sampaikan tentang Jasa Instalasi Listrik di Lenteng Agung Jakarta.
+  Sekira...
 ---
 
 **Jasa Instalasi Listrik di Lenteng Agung Jakarta** – Listrik ialah bagian sumber aliran energi listrik yg paling penting untuk kehidupan manusia. Masing-masing rumah memerlukan listrik sebagai sumber aliran daya listrik yg cukup paling diperlukan, beberapa diantaranya semisal pengaplikasian lampu, televise, mesin cuci, dan kelengkapan lainnya yang menggunakan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Guntur Jakarta"
-date: "2024-09-02"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Guntur Jakarta. Sampai disini penjelasan yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Guntur Jakarta. Jika diantara..."
+title: Jasa Instalasi Listrik di Guntur Jakarta
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Guntur Jakarta. Sampai disini penjelasan yang dapat
+  kami sampaikan tentang Jasa Instalasi Listrik di Guntur Jakarta. Jika
+  diantara...
 ---
 
 **Jasa Instalasi Listrik di Guntur Jakarta** – Listrik menjadi sebuah keperluan setiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, semua masyarakat tentunya akan sulit untuk menjalankan kegiatan sehari-harinya yg terkait dengan listirik. Beberapa kegiatan yg berhubungan dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Malahan ada juga projek yang memerlukan listrik.

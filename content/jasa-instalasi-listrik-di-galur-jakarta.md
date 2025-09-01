@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Galur Jakarta"
-date: "2024-09-02"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Galur Jakarta. Itulah informasi yang dapat kami uraikan perihal Jasa Instalasi Listrik di Galur Jakarta. Jikalau diantara anda ada..."
+title: Jasa Instalasi Listrik di Galur Jakarta
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Galur Jakarta. Itulah informasi yang dapat kami
+  uraikan perihal Jasa Instalasi Listrik di Galur Jakarta. Jikalau diantara anda
+  ada...
 ---
 
 **Jasa Instalasi Listrik di Galur Jakarta** – Listrik bakal jadi beberapa keperluan setiap masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap orang pastinya akan sulit untuk mengerjakan aktivitas sehari-harinya yang berkaitan dengan listirik. Beberapa aktivitas yang terkait dg listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Malahan ada juga proyek yg membutuhkan listrik.

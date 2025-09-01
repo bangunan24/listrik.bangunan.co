@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Tanjung Priok Jakarta"
-date: "2024-09-01"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Tanjung Priok Jakarta. Sampai disini penjelasan yang mampu kami uraikan tentang Jasa Instalasi Listrik di Tanjung Priok Jakarta. Se..."
+title: Jasa Instalasi Listrik di Tanjung Priok Jakarta
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Tanjung Priok Jakarta. Sampai disini penjelasan yang
+  mampu kami uraikan tentang Jasa Instalasi Listrik di Tanjung Priok Jakarta.
+  Se...
 ---
 
 **Jasa Instalasi Listrik di Tanjung Priok Jakarta** – Listrik ialah salah satu sumber aliran arus listrik yang paling utama untuk kehidupan manusia. Tiap-tiap rumah memerlukan listrik sebagai sumber aliran tenaga listrik yg amat penting, sebagian diantaranya semisal pengaplikasian lampu, televise, mesin cuci, dan peralatan yang lain yg menerapkan listrik.

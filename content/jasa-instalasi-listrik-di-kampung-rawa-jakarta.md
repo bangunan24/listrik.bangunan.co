@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kampung Rawa Jakarta"
-date: "2024-09-06"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kampung Rawa Jakarta. Itulah info yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Kampung Rawa Jakarta. Jikalau diantar..."
+title: Jasa Instalasi Listrik di Kampung Rawa Jakarta
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kampung Rawa Jakarta. Itulah info yang dapat kami
+  sampaikan perihal Jasa Instalasi Listrik di Kampung Rawa Jakarta. Jikalau
+  diantar...
 ---
 
 **Jasa Instalasi Listrik di Kampung Rawa Jakarta** – Listrik bakal jadi beberapa kebutuhan tiap-tiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap masyarakat pastinya akan sulit untuk menjalankan kesibukan sehari-harinya yg berhubungan dg listirik. Beberapa kesibukan yang berhubungan dg listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Malah ada juga projek yg membutuhkan listrik.

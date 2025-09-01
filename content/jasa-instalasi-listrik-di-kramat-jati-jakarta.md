@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Kramat jati Jakarta"
-date: "2024-09-12"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Kramat jati Jakarta. Sampai disini informasi yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Kramat jati Jakarta. Jikal..."
+title: Jasa Instalasi Listrik di Kramat jati Jakarta
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Kramat jati Jakarta. Sampai disini informasi yang
+  dapat kami sampaikan tentang Jasa Instalasi Listrik di Kramat jati Jakarta.
+  Jikal...
 ---
 
 **Jasa Instalasi Listrik di Kramat jati Jakarta** – Listrik menjadi beberapa keperluan semua masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, tiap-tiap orang pastinya akan susah untuk melaksanakan aktivitas sehari-harinya yang terkait dengan listirik. Sebagian kegiatan yang berkaitan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dan lainnya. Malah ada juga proyek yg memerlukan listrik.

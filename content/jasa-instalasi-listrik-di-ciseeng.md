@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Ciseeng"
-date: "2024-09-14"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Ciseeng. Sampai disini penjelasan yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Ciseeng. Apabila diantara anda ada ya..."
+title: Jasa Instalasi Listrik di Ciseeng
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Ciseeng. Sampai disini penjelasan yang dapat kami
+  sampaikan tentang Jasa Instalasi Listrik di Ciseeng. Apabila diantara anda ada
+  ya...
 ---
 
 **Jasa Instalasi Listrik di Ciseeng** – Listrik akan menjadi bagian keperluan seluruh manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, semua orang pastinya akan sulit untuk melaksanakan kegiatan sehari-harinya yang berhubungan dg listirik. Beberapa kesibukan yang terkait dg listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Malahan ada juga proyek yg memerlukan listrik.

@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cijeruk"
-date: "2024-09-03"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cijeruk. Sampai disini info yang dapat kami uraikan tentang Jasa Instalasi Listrik di Cijeruk. Jika diantara anda ada yang sedang m..."
+title: Jasa Instalasi Listrik di Cijeruk
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cijeruk. Sampai disini info yang dapat kami uraikan
+  tentang Jasa Instalasi Listrik di Cijeruk. Jika diantara anda ada yang sedang
+  m...
 ---
 
 **Jasa Instalasi Listrik di Cijeruk** – Listrik menjadi bagian dari keperluan seluruh manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap masyarakat tentunya akan sulit untuk menjalankan kegiatan sehari-harinya yg berhubungan dengan listirik. Beberapa kesibukan yang terkait dengan listrik semisal menonton tv, menyalakan kulkas, lampu, dsb. Malahan ada juga pekerjaan yg memerlukan listrik.

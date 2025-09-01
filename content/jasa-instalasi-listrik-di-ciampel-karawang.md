@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Ciampel Karawang"
-date: "2024-09-01"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Ciampel Karawang. Sampai disini pemaparan yang dapat kami uraikan tentang Jasa Instalasi Listrik di Ciampel Karawang. Sekiranya dia..."
+title: Jasa Instalasi Listrik di Ciampel Karawang
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Ciampel Karawang. Sampai disini pemaparan yang dapat
+  kami uraikan tentang Jasa Instalasi Listrik di Ciampel Karawang. Sekiranya
+  dia...
 ---
 
 **Jasa Instalasi Listrik di Ciampel Karawang** – Listrik menjadi beberapa keperluan setiap masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap orang pastinya akan sulit untuk mengerjakan aktivitas sehari-harinya yang berkaitan dengan listirik. Beberapa aktivitas yang berkaitan dg listrik seperti menonton tv, menyalakan kulkas, lampu, dan lainnya. Bahkan ada juga projek yg membutuhkan listrik.

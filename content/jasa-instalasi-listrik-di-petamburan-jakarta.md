@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Petamburan Jakarta"
-date: "2024-09-13"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Petamburan Jakarta. Itulah pemaparan yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Petamburan Jakarta. Sekiranya dian..."
+title: Jasa Instalasi Listrik di Petamburan Jakarta
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Petamburan Jakarta. Itulah pemaparan yang dapat kami
+  sampaikan tentang Jasa Instalasi Listrik di Petamburan Jakarta. Sekiranya
+  dian...
 ---
 
 **Jasa Instalasi Listrik di Petamburan Jakarta** – Listrik ialah beberapa sumber aliran energi listrik yg paling utama untuk kehidupan manusia. Tiap tempat tinggal membutuhkan listrik sbg sumber aliran daya listrik yg cukup paling diharapkan, sebagian diantaranya seperti penggunaan lampu, televise, mesin cuci, dan kelengkapan yang lain yang menerapkan listrik.

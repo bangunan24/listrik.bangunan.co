@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Lamongan"
-date: "2024-09-02"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Lamongan. Demikinlah info yang bisa kami uraikan tentang Jasa Instalasi Listrik di Lamongan. Seandainya diantara anda ada yang seda..."
+title: Jasa Instalasi Listrik di Lamongan
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Lamongan. Demikinlah info yang bisa kami uraikan
+  tentang Jasa Instalasi Listrik di Lamongan. Seandainya diantara anda ada yang
+  seda...
 ---
 
 **Jasa Instalasi Listrik di Lamongan** – Listrik bakal jadi sebuah keperluan tiap-tiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap masyarakat tentunya akan sulit untuk menjalankan aktivitas sehari-harinya yg berhubungan dg listirik. Beberapa kegiatan yg berhubungan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dan lainnya. Bahkan ada juga proyek yang memerlukan listrik.

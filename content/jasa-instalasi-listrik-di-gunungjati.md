@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Gunungjati"
-date: "2024-09-09"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Gunungjati. Sampai disini informasi yang dapat kami uraikan tentang Jasa Instalasi Listrik di Gunungjati. Seandainya diantara anda..."
+title: Jasa Instalasi Listrik di Gunungjati
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Gunungjati. Sampai disini informasi yang dapat kami
+  uraikan tentang Jasa Instalasi Listrik di Gunungjati. Seandainya diantara
+  anda...
 ---
 
 **Jasa Instalasi Listrik di Gunungjati** – Listrik menjadi beberapa keperluan semua masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap manusia tentunya akan sulit untuk melaksanakan aktivitas sehari-harinya yang terkait dg listirik. Beberapa aktivitas yang berkaitan dg listrik semisal menonton tv, menyalakan kulkas, lampu, dan lainnya. Malah ada juga projek yang memerlukan listrik.

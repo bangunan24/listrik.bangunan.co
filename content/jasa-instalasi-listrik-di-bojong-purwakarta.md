@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Bojong Purwakarta"
-date: "2024-09-01"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Bojong Purwakarta. Seperti itulah info yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Bojong Purwakarta. Sekiranya dia..."
+title: Jasa Instalasi Listrik di Bojong Purwakarta
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Bojong Purwakarta. Seperti itulah info yang dapat
+  kami sampaikan perihal Jasa Instalasi Listrik di Bojong Purwakarta. Sekiranya
+  dia...
 ---
 
 **Jasa Instalasi Listrik di Bojong Purwakarta** – Listrik akan menjadi bagian kebutuhan setiap orang dalam kehidupan sehari-hari. Tanpa adanya listrik, semua masyarakat pastinya akan sulit untuk melakukan aktivitas sehari-harinya yg berhubungan dengan listirik. Beberapa aktivitas yg terkait dengan listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Malahan ada juga projek yang membutuhkan listrik.

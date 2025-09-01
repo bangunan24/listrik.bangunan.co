@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cigombong"
-date: "2024-09-13"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cigombong. Itulah informasi yang dapat kami sampaikan perihal Jasa Instalasi Listrik di Cigombong. Bila diantara anda ada yang seda..."
+title: Jasa Instalasi Listrik di Cigombong
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cigombong. Itulah informasi yang dapat kami
+  sampaikan perihal Jasa Instalasi Listrik di Cigombong. Bila diantara anda ada
+  yang seda...
 ---
 
 **Jasa Instalasi Listrik di Cigombong** – Listrik menjadi beberapa kebutuhan tiap-tiap manusia dalam kehidupan sehari-hari. Tanpa adanya listrik, seluruh orang tentunya akan sulit untuk melakukan kesibukan sehari-harinya yg berhubungan dg listirik. Sebagian aktivitas yg terkait dg listrik seperti menonton tv, menyalakan kulkas, lampu, dsb. Malah ada juga pekerjaan yang membutuhkan listrik.

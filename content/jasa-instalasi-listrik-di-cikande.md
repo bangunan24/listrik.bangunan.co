@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Cikande"
-date: "2024-09-11"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Cikande. Sampai disini info yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Cikande. Seandainya diantara anda ada yang..."
+title: Jasa Instalasi Listrik di Cikande
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Cikande. Sampai disini info yang dapat kami
+  sampaikan tentang Jasa Instalasi Listrik di Cikande. Seandainya diantara anda
+  ada yang...
 ---
 
 **Jasa Instalasi Listrik di Cikande** – Listrik menjadi bagian kebutuhan setiap masyarakat dalam kehidupan sehari-hari. Tanpa adanya listrik, setiap manusia tentunya akan susah untuk melaksanakan kesibukan sehari-harinya yang berhubungan dg listirik. Beberapa aktivitas yg berkaitan dg listrik seperti menonton tv, menyalakan kulkas, lampu, dan lainnya. Bahkan ada juga proyek yang membutuhkan listrik.

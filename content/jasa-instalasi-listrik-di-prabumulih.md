@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Prabumulih"
-date: "2024-09-04"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Prabumulih. Itulah informasi yang bisa kami sampaikan tentang Jasa Instalasi Listrik di Prabumulih. Seandainya diantara anda ada ya..."
+title: Jasa Instalasi Listrik di Prabumulih
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Prabumulih. Itulah informasi yang bisa kami
+  sampaikan tentang Jasa Instalasi Listrik di Prabumulih. Seandainya diantara
+  anda ada ya...
 ---
 
 **Jasa Instalasi Listrik di Prabumulih** – Listrik yakni satu satunya sumber aliran energi listrik yang paling penting untuk kehidupan manusia. Tiap-tiap hunian membutuhkan listrik sebagai sumber aliran tenaga listrik yang amat paling diperlukan, sebagian diantaranya seperti penggunaan lampu, televise, mesin cuci, dan kelengkapan yang lain yang menggunakan listrik.

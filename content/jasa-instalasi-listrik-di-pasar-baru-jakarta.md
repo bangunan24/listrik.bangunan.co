@@ -1,9 +1,12 @@
 ---
-title: "Jasa Instalasi Listrik di Pasar Baru Jakarta"
-date: "2024-09-05"
-categories: 
-  - "biaya"
-description: "Jasa Instalasi Listrik di Pasar Baru Jakarta. Sampai disini pemaparan yang dapat kami sampaikan tentang Jasa Instalasi Listrik di Pasar Baru Jakarta. Bila di..."
+title: Jasa Instalasi Listrik di Pasar Baru Jakarta
+date: '2025-09-01'
+categories:
+  - biaya
+description: >-
+  Jasa Instalasi Listrik di Pasar Baru Jakarta. Sampai disini pemaparan yang
+  dapat kami sampaikan tentang Jasa Instalasi Listrik di Pasar Baru Jakarta.
+  Bila di...
 ---
 
 **Jasa Instalasi Listrik di Pasar Baru Jakarta** – Listrik ialah salah satu sumber aliran tenaga listrik yang paling utama untuk kehidupan manusia. Setiap rumah membutuhkan listrik sbg sumber aliran daya listrik yang cukup urgent, beberapa diantaranya seperti penerapan lampu, televise, mesin cuci, dan peralatan yang lain yg memakai listrik.
