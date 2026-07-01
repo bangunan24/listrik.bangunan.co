@@ -1,6 +1,6 @@
 ---
 title: Jasa Instalasi Listrik di Temanggung
-date: '2025-07-01'
+date: '2026-07-01'
 categories:
   - biaya
 description: >-
